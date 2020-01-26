@@ -70,6 +70,8 @@ def train(cat_to_data):
     return category_to_model
 
 
+
+
 # list_data = get_list(FILE)
 
 # parsed = parse_data(list_data)
@@ -116,7 +118,7 @@ def test_model():
           "not model of category:", no_model_of_cat)
 
 
-test_model()
+# test_model()
 
 # def test_model():
 #  X = []
