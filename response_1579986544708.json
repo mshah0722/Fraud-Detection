@@ -21,9 +21,7 @@
       "id": "8b33d5a1-004ece78-565f-4e59-9966-0c6c7f985ad2",
       "locationStreet": "5250 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "description": "KXX TFR-TO 9904163",
@@ -33,9 +31,7 @@
       "customerId": "8b33d5a1-1c8c-4fc8-ade8-d014f1f27ed6",
       "id": "8b33d5a1-008c63d2-4189-4c90-aadd-584a1f8e364f",
       "accountId": "f4154036-8f42-42c5-8f01-00ea039d7d7b",
-      "categoryTags": [
-        "Transfer"
-      ]
+      "categoryTags": ["Transfer"]
     },
     {
       "locationCountry": "CA",
@@ -51,9 +47,7 @@
       "merchantId": "ee7400d4-10e2-402d-a63c-921860d6030b",
       "id": "8b33d5a1-00a1b9fc-d257-42fe-9da0-9513962aec2c",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Auto and Transport"
-      ]
+      "categoryTags": ["Auto and Transport"]
     },
     {
       "locationLongitude": -79.5381323935,
@@ -74,9 +68,7 @@
       "id": "8b33d5a1-012673a2-d5be-443c-971f-7d64d8ece44b",
       "locationStreet": "5230 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationLongitude": -79.527194372,
@@ -97,9 +89,7 @@
       "id": "8b33d5a1-014a9034-e29e-4016-9299-f39ffb982ad5",
       "locationStreet": "4869 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "merchantCategoryCode": "6300",
@@ -112,9 +102,7 @@
       "merchantId": "5d3dd80d-8ff0-4e7c-a02b-8b50aa63aae5",
       "id": "8b33d5a1-0161f434-fa54-4a2d-88c9-43504aa9b4f6",
       "accountId": "f4154036-8f42-42c5-8f01-00ea039d7d7b",
-      "categoryTags": [
-        "Bills and Utilities"
-      ]
+      "categoryTags": ["Bills and Utilities"]
     },
     {
       "locationLongitude": -79.527194372,
@@ -135,9 +123,7 @@
       "id": "8b33d5a1-01bb519f-f182-4f11-90c5-dbadf604391f",
       "locationStreet": "4869 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationCountry": "CA",
@@ -153,9 +139,7 @@
       "merchantId": "ee7400d4-10e2-402d-a63c-921860d6030b",
       "id": "8b33d5a1-041c4577-4e15-4605-93fd-7b1b86f4036a",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Auto and Transport"
-      ]
+      "categoryTags": ["Auto and Transport"]
     },
     {
       "locationLongitude": -79.5389363074,
@@ -176,9 +160,7 @@
       "id": "8b33d5a1-0518f390-3445-4ee4-b526-4f5d00cebae0",
       "locationStreet": "5250 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationLongitude": -79.4853049404,
@@ -199,9 +181,7 @@
       "id": "8b33d5a1-063e3f04-226a-49b3-82ad-e523cc3fb6e2",
       "locationStreet": "2525 St Clair Ave W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationLongitude": -79.5389363074,
@@ -222,9 +202,7 @@
       "id": "8b33d5a1-065b7110-0621-42d7-af15-5fe77da3a4a9",
       "locationStreet": "5250 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "merchantCategoryCode": "4816",
@@ -237,9 +215,7 @@
       "merchantId": "3d99af81-c081-4d73-bc44-d3a8e639b22a",
       "id": "8b33d5a1-09a9f56d-8c3b-4648-9edf-4a36652dd2a3",
       "accountId": "f4154036-8f42-42c5-8f01-00ea039d7d7b",
-      "categoryTags": [
-        "Bills and Utilities"
-      ]
+      "categoryTags": ["Bills and Utilities"]
     },
     {
       "locationLongitude": -79.5381323935,
@@ -260,9 +236,7 @@
       "id": "8b33d5a1-0aa8b69a-048e-432c-95e2-dfc81bee5a2e",
       "locationStreet": "5230 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationLongitude": -79.5381323935,
@@ -283,9 +257,7 @@
       "id": "8b33d5a1-0ae8903a-de21-428c-a0cc-09f85102a133",
       "locationStreet": "5230 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationLongitude": -79.527194372,
@@ -306,9 +278,7 @@
       "id": "8b33d5a1-0c080d8c-22aa-40bb-89f4-1fab064b50c5",
       "locationStreet": "4869 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "merchantCategoryCode": "4899",
@@ -322,9 +292,7 @@
       "merchantId": "fc63968c-c5c9-453b-965f-0254a4bcd68b",
       "id": "8b33d5a1-0cc20766-4d89-44ad-b131-ce56b69fa020",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Bills and Utilities"
-      ]
+      "categoryTags": ["Bills and Utilities"]
     },
     {
       "locationLongitude": -79.5389363074,
@@ -345,9 +313,7 @@
       "id": "8b33d5a1-0cd28b60-7494-4b86-be89-47a098f40da8",
       "locationStreet": "5250 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "description": "AZZ TFR-TO 9904163",
@@ -357,9 +323,7 @@
       "customerId": "8b33d5a1-1c8c-4fc8-ade8-d014f1f27ed6",
       "id": "8b33d5a1-0d82c8ad-fe8f-495e-b2a5-3cb1156756a2",
       "accountId": "f4154036-8f42-42c5-8f01-00ea039d7d7b",
-      "categoryTags": [
-        "Transfer"
-      ]
+      "categoryTags": ["Transfer"]
     },
     {
       "locationLongitude": -79.4853049404,
@@ -380,9 +344,7 @@
       "id": "8b33d5a1-0dff8a16-1c3c-45b0-9000-ed08201942cd",
       "locationStreet": "2525 St Clair Ave W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationCountry": "CA",
@@ -398,9 +360,7 @@
       "merchantId": "ee7400d4-10e2-402d-a63c-921860d6030b",
       "id": "8b33d5a1-0e2bf7f8-53c9-4e2e-a9a3-5b5e1630ca30",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Auto and Transport"
-      ]
+      "categoryTags": ["Auto and Transport"]
     },
     {
       "locationLongitude": -79.5543838039,
@@ -421,9 +381,7 @@
       "id": "8b33d5a1-0e6d4498-feb0-4a65-b8af-421f47d2f95d",
       "locationStreet": "165 North Queen St",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationLongitude": -79.527194372,
@@ -444,9 +402,7 @@
       "id": "8b33d5a1-10b236b0-648c-4033-b3aa-9ee3a1e9f2a5",
       "locationStreet": "4869 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "merchantCategoryCode": "4816",
@@ -459,9 +415,7 @@
       "merchantId": "3d99af81-c081-4d73-bc44-d3a8e639b22a",
       "id": "8b33d5a1-12f61e8a-9339-4ce8-bda9-97522e0011f8",
       "accountId": "f4154036-8f42-42c5-8f01-00ea039d7d7b",
-      "categoryTags": [
-        "Bills and Utilities"
-      ]
+      "categoryTags": ["Bills and Utilities"]
     },
     {
       "locationLongitude": -79.5381323935,
@@ -482,9 +436,7 @@
       "id": "8b33d5a1-1322cb0a-740a-41d4-b6ee-349b27156524",
       "locationStreet": "5230 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "merchantCategoryCode": "4899",
@@ -498,9 +450,7 @@
       "merchantId": "fc63968c-c5c9-453b-965f-0254a4bcd68b",
       "id": "8b33d5a1-1326c37f-85ee-46c8-8077-4194674d6c31",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Bills and Utilities"
-      ]
+      "categoryTags": ["Bills and Utilities"]
     },
     {
       "locationLongitude": -79.516179934,
@@ -521,9 +471,7 @@
       "id": "8b33d5a1-1400860b-6de9-429e-a601-ecfecfabef42",
       "locationStreet": "1025 The Queensway",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Entertainment"
-      ]
+      "categoryTags": ["Entertainment"]
     },
     {
       "locationLongitude": -79.4888177211,
@@ -544,9 +492,7 @@
       "id": "8b33d5a1-17dc0560-3625-4adc-ae2a-64f71711853d",
       "locationStreet": "3520 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationLongitude": -79.5389363074,
@@ -567,9 +513,7 @@
       "id": "8b33d5a1-1c261bfa-eac3-4c1e-91e0-8349b9d6c70d",
       "locationStreet": "5250 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationLongitude": -79.390976944,
@@ -590,9 +534,7 @@
       "id": "8b33d5a1-1c770873-e357-4f4d-bf3f-9b92838fd86a",
       "locationStreet": "259 Richmond St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Entertainment"
-      ]
+      "categoryTags": ["Entertainment"]
     },
     {
       "locationLongitude": -79.516179934,
@@ -613,9 +555,7 @@
       "id": "8b33d5a1-2466be10-22aa-4ca9-b68b-37126d1f39d2",
       "locationStreet": "1025 The Queensway",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Entertainment"
-      ]
+      "categoryTags": ["Entertainment"]
     },
     {
       "locationCountry": "CA",
@@ -631,9 +571,7 @@
       "merchantId": "ee7400d4-10e2-402d-a63c-921860d6030b",
       "id": "8b33d5a1-253d0727-7a1c-454b-a574-bac852348e2a",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Auto and Transport"
-      ]
+      "categoryTags": ["Auto and Transport"]
     },
     {
       "merchantCategoryCode": "6012",
@@ -646,9 +584,7 @@
       "merchantId": "b1541b4a-c62f-40f3-aa02-b02f18267223",
       "id": "8b33d5a1-2629ea03-5315-46a0-806a-ef8560bee73c",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Transfer"
-      ]
+      "categoryTags": ["Transfer"]
     },
     {
       "locationLongitude": -79.527194372,
@@ -669,9 +605,7 @@
       "id": "8b33d5a1-2656d2a2-0735-4ad0-8f62-564274d269c0",
       "locationStreet": "4869 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationLongitude": -79.5543838039,
@@ -692,9 +626,7 @@
       "id": "8b33d5a1-2740fd93-bce8-4026-af4b-e356b0326cca",
       "locationStreet": "165 North Queen St",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "description": "ADP PMT 83409836",
@@ -704,9 +636,7 @@
       "customerId": "8b33d5a1-1c8c-4fc8-ade8-d014f1f27ed6",
       "id": "8b33d5a1-27939341-c2b2-4811-8010-d7da6ae68ce4",
       "accountId": "f4154036-8f42-42c5-8f01-00ea039d7d7b",
-      "categoryTags": [
-        "Income"
-      ]
+      "categoryTags": ["Income"]
     },
     {
       "locationLongitude": -79.5389363074,
@@ -727,9 +657,7 @@
       "id": "8b33d5a1-294ad424-7033-4f18-9493-6d6a1804a2d1",
       "locationStreet": "5250 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationLongitude": -79.4292772156,
@@ -750,9 +678,7 @@
       "id": "8b33d5a1-2b539259-1531-46c6-960c-ea6b50cacabb",
       "locationStreet": "1421 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Health and Fitness"
-      ]
+      "categoryTags": ["Health and Fitness"]
     },
     {
       "description": "CANADA CPP 99987986",
@@ -762,9 +688,7 @@
       "customerId": "8b33d5a1-1c8c-4fc8-ade8-d014f1f27ed6",
       "id": "8b33d5a1-2bec8d8e-c90c-400a-b117-da3b8c7149ba",
       "accountId": "f4154036-8f42-42c5-8f01-00ea039d7d7b",
-      "categoryTags": [
-        "Income"
-      ]
+      "categoryTags": ["Income"]
     },
     {
       "description": "CANADA CPP 88929055",
@@ -774,9 +698,7 @@
       "customerId": "8b33d5a1-1c8c-4fc8-ade8-d014f1f27ed6",
       "id": "8b33d5a1-2d5e1c26-6d0a-4f6e-a8e4-202e3f6cf6aa",
       "accountId": "f4154036-8f42-42c5-8f01-00ea039d7d7b",
-      "categoryTags": [
-        "Income"
-      ]
+      "categoryTags": ["Income"]
     },
     {
       "locationLongitude": -79.5381323935,
@@ -797,9 +719,7 @@
       "id": "8b33d5a1-2d7287e0-e7df-4b7c-8724-59ac720d4c8c",
       "locationStreet": "5230 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationLongitude": -79.5389363074,
@@ -820,9 +740,7 @@
       "id": "8b33d5a1-2e5c630e-2e5d-4244-b953-6032fae9c385",
       "locationStreet": "5250 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "description": "ADP PMT 79591189",
@@ -832,9 +750,7 @@
       "customerId": "8b33d5a1-1c8c-4fc8-ade8-d014f1f27ed6",
       "id": "8b33d5a1-2ee86c00-1b3c-4989-839b-0de48df9f607",
       "accountId": "f4154036-8f42-42c5-8f01-00ea039d7d7b",
-      "categoryTags": [
-        "Income"
-      ]
+      "categoryTags": ["Income"]
     },
     {
       "locationLongitude": -79.5564987161,
@@ -855,9 +771,7 @@
       "id": "8b33d5a1-307497d8-4e32-4738-8ef7-653e4d8f057f",
       "locationStreet": "177 North Queen St",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Shopping"
-      ]
+      "categoryTags": ["Shopping"]
     },
     {
       "merchantCategoryCode": "6012",
@@ -869,9 +783,7 @@
       "merchantId": "852223a6-f227-4e4c-818e-36bb880866f2",
       "id": "8b33d5a1-31ab4d50-3979-4f13-a34e-a79637944c36",
       "accountId": "f4154036-8f42-42c5-8f01-00ea039d7d7b",
-      "categoryTags": [
-        "Transfer"
-      ]
+      "categoryTags": ["Transfer"]
     },
     {
       "locationCountry": "CA",
@@ -887,9 +799,7 @@
       "merchantId": "ee7400d4-10e2-402d-a63c-921860d6030b",
       "id": "8b33d5a1-31ff4011-c71c-41f1-9057-b80b50d05436",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Auto and Transport"
-      ]
+      "categoryTags": ["Auto and Transport"]
     },
     {
       "locationLongitude": -79.5389363074,
@@ -910,9 +820,7 @@
       "id": "8b33d5a1-32976976-da0a-49ed-8520-0711f4846be1",
       "locationStreet": "5250 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationLongitude": -79.452088185,
@@ -933,9 +841,7 @@
       "id": "8b33d5a1-33627fb8-1c7e-4844-90dd-5c260e49bbd0",
       "locationStreet": "1896 Eglinton Ave W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Health and Fitness"
-      ]
+      "categoryTags": ["Health and Fitness"]
     },
     {
       "merchantCategoryCode": "4900",
@@ -948,9 +854,7 @@
       "merchantId": "f009e806-028d-4d16-9122-eadb912fac98",
       "id": "8b33d5a1-33d97b44-f130-4ac6-bb54-a514b706d532",
       "accountId": "f4154036-8f42-42c5-8f01-00ea039d7d7b",
-      "categoryTags": [
-        "Bills and Utilities"
-      ]
+      "categoryTags": ["Bills and Utilities"]
     },
     {
       "merchantCategoryCode": "4900",
@@ -963,9 +867,7 @@
       "merchantId": "24f5de6b-35b4-45c3-a717-8368f4d49b60",
       "id": "8b33d5a1-356de2d1-935c-44cf-9f5d-f838bc01c776",
       "accountId": "f4154036-8f42-42c5-8f01-00ea039d7d7b",
-      "categoryTags": [
-        "Bills and Utilities"
-      ]
+      "categoryTags": ["Bills and Utilities"]
     },
     {
       "locationLongitude": -79.390976944,
@@ -986,9 +888,7 @@
       "id": "8b33d5a1-35c5a8e2-956e-4931-9862-9ee693faa687",
       "locationStreet": "259 Richmond St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Entertainment"
-      ]
+      "categoryTags": ["Entertainment"]
     },
     {
       "locationLongitude": -79.527194372,
@@ -1009,9 +909,7 @@
       "id": "8b33d5a1-35efeba6-85ac-4214-a2c7-22023524e4a3",
       "locationStreet": "4869 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationLongitude": -79.5381323935,
@@ -1032,9 +930,7 @@
       "id": "8b33d5a1-36c45357-64fb-4931-b309-74fe0ce09170",
       "locationStreet": "5230 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationLongitude": -79.527194372,
@@ -1055,9 +951,7 @@
       "id": "8b33d5a1-395410bb-f287-4e55-bf1e-591a2265c7c6",
       "locationStreet": "4869 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationCountry": "CA",
@@ -1073,9 +967,7 @@
       "merchantId": "ee7400d4-10e2-402d-a63c-921860d6030b",
       "id": "8b33d5a1-3ca2b9c8-dae0-4774-983d-a3828108e298",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Auto and Transport"
-      ]
+      "categoryTags": ["Auto and Transport"]
     },
     {
       "locationLongitude": -79.5544695803,
@@ -1096,9 +988,7 @@
       "id": "8b33d5a1-3ccfc59b-2d8b-4790-8175-789dd3eb39f7",
       "locationStreet": "250 The East Mall",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Shopping"
-      ]
+      "categoryTags": ["Shopping"]
     },
     {
       "merchantCategoryCode": "6012",
@@ -1110,9 +1000,7 @@
       "merchantId": "852223a6-f227-4e4c-818e-36bb880866f2",
       "id": "8b33d5a1-3dcca45e-42aa-464d-8f05-8f4ad367e45b",
       "accountId": "f4154036-8f42-42c5-8f01-00ea039d7d7b",
-      "categoryTags": [
-        "Transfer"
-      ]
+      "categoryTags": ["Transfer"]
     },
     {
       "merchantCategoryCode": "5942",
@@ -1125,9 +1013,7 @@
       "merchantId": "9e491cad-0a7b-49d5-9522-e95012f233f4",
       "id": "8b33d5a1-3df55e61-0027-4824-88a3-e26e7801f9a2",
       "accountId": "f4154036-8f42-42c5-8f01-00ea039d7d7b",
-      "categoryTags": [
-        "Shopping"
-      ]
+      "categoryTags": ["Shopping"]
     },
     {
       "merchantCategoryCode": "4900",
@@ -1140,9 +1026,7 @@
       "merchantId": "0403a261-0597-4e79-978a-91aec36ba5fd",
       "id": "8b33d5a1-410c06c0-30db-4923-b0cb-e251f40c7e51",
       "accountId": "f4154036-8f42-42c5-8f01-00ea039d7d7b",
-      "categoryTags": [
-        "Bills and Utilities"
-      ]
+      "categoryTags": ["Bills and Utilities"]
     },
     {
       "locationLongitude": -79.5389363074,
@@ -1163,9 +1047,7 @@
       "id": "8b33d5a1-41bbefdc-0212-4a02-a487-7a952776d1f6",
       "locationStreet": "5250 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "description": "CANADA CPP 89196986",
@@ -1175,9 +1057,7 @@
       "customerId": "8b33d5a1-1c8c-4fc8-ade8-d014f1f27ed6",
       "id": "8b33d5a1-42d366d0-ea52-4cf3-846d-6f5af69d19eb",
       "accountId": "f4154036-8f42-42c5-8f01-00ea039d7d7b",
-      "categoryTags": [
-        "Income"
-      ]
+      "categoryTags": ["Income"]
     },
     {
       "merchantCategoryCode": "6012",
@@ -1190,9 +1070,7 @@
       "merchantId": "b1541b4a-c62f-40f3-aa02-b02f18267223",
       "id": "8b33d5a1-431db0ab-93b2-4598-a361-b2484fccb635",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Transfer"
-      ]
+      "categoryTags": ["Transfer"]
     },
     {
       "merchantCategoryCode": "9311",
@@ -1205,9 +1083,7 @@
       "merchantId": "d9dfeb8a-afcb-4c4a-aad1-7efd43fe9c4d",
       "id": "8b33d5a1-436008f8-2a63-4d93-9857-e986e701c27c",
       "accountId": "f4154036-8f42-42c5-8f01-00ea039d7d7b",
-      "categoryTags": [
-        "Taxes"
-      ]
+      "categoryTags": ["Taxes"]
     },
     {
       "locationLongitude": -79.527194372,
@@ -1228,9 +1104,7 @@
       "id": "8b33d5a1-44aa13f0-11b8-466f-83c0-2d520c1d5622",
       "locationStreet": "4869 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationLongitude": -79.5389363074,
@@ -1251,9 +1125,7 @@
       "id": "8b33d5a1-45f5e1e6-cb59-4f22-8b76-99e3c7c3e2fb",
       "locationStreet": "5250 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationLongitude": -79.4815539329,
@@ -1274,9 +1146,7 @@
       "id": "8b33d5a1-4690e278-ae4c-4354-9ca0-7fa9229f6322",
       "locationStreet": "125 The Queensway",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "merchantCategoryCode": "5200",
@@ -1289,9 +1159,7 @@
       "merchantId": "ab3d324d-34de-40a8-bf84-57f791418097",
       "id": "8b33d5a1-4694f9a5-fb8c-4c3a-982f-2769f571f9bc",
       "accountId": "f4154036-8f42-42c5-8f01-00ea039d7d7b",
-      "categoryTags": [
-        "Home"
-      ]
+      "categoryTags": ["Home"]
     },
     {
       "merchantCategoryCode": "6012",
@@ -1303,9 +1171,7 @@
       "merchantId": "852223a6-f227-4e4c-818e-36bb880866f2",
       "id": "8b33d5a1-477c2b04-f90d-4322-81bf-c551436cda02",
       "accountId": "f4154036-8f42-42c5-8f01-00ea039d7d7b",
-      "categoryTags": [
-        "Transfer"
-      ]
+      "categoryTags": ["Transfer"]
     },
     {
       "locationLongitude": -79.527194372,
@@ -1326,9 +1192,7 @@
       "id": "8b33d5a1-478ad0e7-5cef-468c-b77a-ea9145150fe1",
       "locationStreet": "4869 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "description": "CANADA CPP 86487934",
@@ -1338,9 +1202,7 @@
       "customerId": "8b33d5a1-1c8c-4fc8-ade8-d014f1f27ed6",
       "id": "8b33d5a1-48ba7bc1-d896-4ac3-9c0d-57b5238a31da",
       "accountId": "f4154036-8f42-42c5-8f01-00ea039d7d7b",
-      "categoryTags": [
-        "Income"
-      ]
+      "categoryTags": ["Income"]
     },
     {
       "description": "LHM TFR-TO 9904163",
@@ -1350,9 +1212,7 @@
       "customerId": "8b33d5a1-1c8c-4fc8-ade8-d014f1f27ed6",
       "id": "8b33d5a1-494f5409-9828-4fd5-a5f1-2a5673f0d892",
       "accountId": "f4154036-8f42-42c5-8f01-00ea039d7d7b",
-      "categoryTags": [
-        "Transfer"
-      ]
+      "categoryTags": ["Transfer"]
     },
     {
       "merchantCategoryCode": "4899",
@@ -1366,9 +1226,7 @@
       "merchantId": "fc63968c-c5c9-453b-965f-0254a4bcd68b",
       "id": "8b33d5a1-4a231f8a-a810-4399-b3c7-d3c611dd24f3",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Bills and Utilities"
-      ]
+      "categoryTags": ["Bills and Utilities"]
     },
     {
       "merchantCategoryCode": "6012",
@@ -1381,9 +1239,7 @@
       "merchantId": "b1541b4a-c62f-40f3-aa02-b02f18267223",
       "id": "8b33d5a1-4c04c04b-f12d-49ab-a142-fd0acd38f20b",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Transfer"
-      ]
+      "categoryTags": ["Transfer"]
     },
     {
       "locationLongitude": -79.5381323935,
@@ -1404,9 +1260,7 @@
       "id": "8b33d5a1-4cf9a891-1b7c-4897-b2af-7c02c8ecde3c",
       "locationStreet": "5230 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationLongitude": -79.5389363074,
@@ -1427,9 +1281,7 @@
       "id": "8b33d5a1-4d68e451-9365-4ae9-91a8-94413f1f917f",
       "locationStreet": "5250 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationCountry": "CA",
@@ -1445,9 +1297,7 @@
       "merchantId": "ee7400d4-10e2-402d-a63c-921860d6030b",
       "id": "8b33d5a1-4d7b108d-c5b2-4aeb-91c0-388c8d589624",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Auto and Transport"
-      ]
+      "categoryTags": ["Auto and Transport"]
     },
     {
       "locationLongitude": -79.527194372,
@@ -1468,9 +1318,7 @@
       "id": "8b33d5a1-4e71e0a7-8ade-4b9b-ac23-a281f60bab95",
       "locationStreet": "4869 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "description": "CANADA CPP 14797899",
@@ -1480,9 +1328,7 @@
       "customerId": "8b33d5a1-1c8c-4fc8-ade8-d014f1f27ed6",
       "id": "8b33d5a1-4ed3ebd9-00f3-4617-ad35-00ffe20f9c11",
       "accountId": "f4154036-8f42-42c5-8f01-00ea039d7d7b",
-      "categoryTags": [
-        "Income"
-      ]
+      "categoryTags": ["Income"]
     },
     {
       "description": "ADP PMT 96898590",
@@ -1492,9 +1338,7 @@
       "customerId": "8b33d5a1-1c8c-4fc8-ade8-d014f1f27ed6",
       "id": "8b33d5a1-4f3683d0-93ef-458f-9a3a-ecc9a685030d",
       "accountId": "f4154036-8f42-42c5-8f01-00ea039d7d7b",
-      "categoryTags": [
-        "Income"
-      ]
+      "categoryTags": ["Income"]
     },
     {
       "description": "GC 8888-TRANSFER",
@@ -1504,9 +1348,7 @@
       "customerId": "8b33d5a1-1c8c-4fc8-ade8-d014f1f27ed6",
       "id": "8b33d5a1-51f78ef0-cf2d-482f-9a90-8958d6e27189",
       "accountId": "1e813b59-a173-4c8f-8c3f-b8e3867153f1",
-      "categoryTags": [
-        "Transfer"
-      ]
+      "categoryTags": ["Transfer"]
     },
     {
       "merchantCategoryCode": "6012",
@@ -1519,9 +1361,7 @@
       "merchantId": "b1541b4a-c62f-40f3-aa02-b02f18267223",
       "id": "8b33d5a1-534af155-1e71-4b1e-b66d-eb35fc8b624f",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Transfer"
-      ]
+      "categoryTags": ["Transfer"]
     },
     {
       "locationLongitude": -79.5544695803,
@@ -1542,9 +1382,7 @@
       "id": "8b33d5a1-541a081a-4224-453c-8f8c-f0b9a5c7b907",
       "locationStreet": "250 The East Mall",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationLongitude": -79.527194372,
@@ -1565,9 +1403,7 @@
       "id": "8b33d5a1-55cc1981-b9a4-4c1a-a76c-a4b1bda9d20b",
       "locationStreet": "4869 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "merchantCategoryCode": "4900",
@@ -1580,9 +1416,7 @@
       "merchantId": "f009e806-028d-4d16-9122-eadb912fac98",
       "id": "8b33d5a1-560e60db-6fcf-48aa-a321-bd991c6add57",
       "accountId": "f4154036-8f42-42c5-8f01-00ea039d7d7b",
-      "categoryTags": [
-        "Bills and Utilities"
-      ]
+      "categoryTags": ["Bills and Utilities"]
     },
     {
       "locationLongitude": -79.5543838039,
@@ -1603,9 +1437,7 @@
       "id": "8b33d5a1-56222ca6-c03d-473e-8d01-71b8cf6242e3",
       "locationStreet": "165 North Queen St",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationLongitude": -79.527194372,
@@ -1626,9 +1458,7 @@
       "id": "8b33d5a1-564c3bff-9e93-40a0-a15e-4cfae1cc0a6e",
       "locationStreet": "4869 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationLongitude": -79.527194372,
@@ -1649,9 +1479,7 @@
       "id": "8b33d5a1-574988ca-55f1-4499-9e32-72e9fdc965f9",
       "locationStreet": "4869 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationLongitude": -79.4815539329,
@@ -1672,9 +1500,7 @@
       "id": "8b33d5a1-5767de5f-0f0d-4837-8b0b-38d4a0297ea2",
       "locationStreet": "125 The Queensway",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "description": "XZL TFR-TO 9904163",
@@ -1684,9 +1510,7 @@
       "customerId": "8b33d5a1-1c8c-4fc8-ade8-d014f1f27ed6",
       "id": "8b33d5a1-57c72d01-95e9-44db-b2bf-14021a39050e",
       "accountId": "f4154036-8f42-42c5-8f01-00ea039d7d7b",
-      "categoryTags": [
-        "Transfer"
-      ]
+      "categoryTags": ["Transfer"]
     },
     {
       "locationLongitude": -79.5544695803,
@@ -1707,9 +1531,7 @@
       "id": "8b33d5a1-584704e6-7b6c-470c-bc38-e67943e92394",
       "locationStreet": "250 The East Mall",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationLongitude": -79.5389363074,
@@ -1730,9 +1552,7 @@
       "id": "8b33d5a1-584b9e87-7553-46c9-b551-b7932b09c8b8",
       "locationStreet": "5250 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationLongitude": -79.5381323935,
@@ -1753,9 +1573,7 @@
       "id": "8b33d5a1-5961c349-c41d-43c5-859d-2f46ea3532a9",
       "locationStreet": "5230 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "merchantCategoryCode": "6300",
@@ -1768,9 +1586,7 @@
       "merchantId": "5d3dd80d-8ff0-4e7c-a02b-8b50aa63aae5",
       "id": "8b33d5a1-59697b5c-1a5e-4c9d-8020-2ab328e05dae",
       "accountId": "f4154036-8f42-42c5-8f01-00ea039d7d7b",
-      "categoryTags": [
-        "Bills and Utilities"
-      ]
+      "categoryTags": ["Bills and Utilities"]
     },
     {
       "description": "EMTFR  C0***qoV",
@@ -1781,9 +1597,7 @@
       "customerId": "8b33d5a1-1c8c-4fc8-ade8-d014f1f27ed6",
       "id": "8b33d5a1-596c3e58-404d-4de9-b7f1-daec424ce38d",
       "accountId": "1e813b59-a173-4c8f-8c3f-b8e3867153f1",
-      "categoryTags": [
-        "Transfer"
-      ]
+      "categoryTags": ["Transfer"]
     },
     {
       "locationCountry": "CA",
@@ -1799,9 +1613,7 @@
       "merchantId": "ee7400d4-10e2-402d-a63c-921860d6030b",
       "id": "8b33d5a1-5a432c28-e85e-4ba2-9734-98e877011802",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Auto and Transport"
-      ]
+      "categoryTags": ["Auto and Transport"]
     },
     {
       "locationLongitude": -79.527194372,
@@ -1822,9 +1634,7 @@
       "id": "8b33d5a1-5c6da9ca-5b47-4766-be43-9ba20e683bea",
       "locationStreet": "4869 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationCountry": "CA",
@@ -1840,9 +1650,7 @@
       "merchantId": "ee7400d4-10e2-402d-a63c-921860d6030b",
       "id": "8b33d5a1-5d03e5e1-5155-4999-86d8-2ab1642288f3",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Auto and Transport"
-      ]
+      "categoryTags": ["Auto and Transport"]
     },
     {
       "description": "ADP PMT 91967824",
@@ -1852,9 +1660,7 @@
       "customerId": "8b33d5a1-1c8c-4fc8-ade8-d014f1f27ed6",
       "id": "8b33d5a1-5d1b4973-4227-4a39-91c3-ba4bfe429d6b",
       "accountId": "f4154036-8f42-42c5-8f01-00ea039d7d7b",
-      "categoryTags": [
-        "Income"
-      ]
+      "categoryTags": ["Income"]
     },
     {
       "locationLongitude": -79.4815539329,
@@ -1875,9 +1681,7 @@
       "id": "8b33d5a1-5d429fe5-07d9-4409-8037-ef3136812fb6",
       "locationStreet": "125 The Queensway",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "description": "CANADA CPP 59119926",
@@ -1887,9 +1691,7 @@
       "customerId": "8b33d5a1-1c8c-4fc8-ade8-d014f1f27ed6",
       "id": "8b33d5a1-5dbd999a-0176-4abf-b687-65722b11eff5",
       "accountId": "f4154036-8f42-42c5-8f01-00ea039d7d7b",
-      "categoryTags": [
-        "Income"
-      ]
+      "categoryTags": ["Income"]
     },
     {
       "locationCountry": "CA",
@@ -1905,9 +1707,7 @@
       "merchantId": "ee7400d4-10e2-402d-a63c-921860d6030b",
       "id": "8b33d5a1-5dff4958-f9da-4214-a59f-5aff2af342de",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Auto and Transport"
-      ]
+      "categoryTags": ["Auto and Transport"]
     },
     {
       "merchantCategoryCode": "4900",
@@ -1920,9 +1720,7 @@
       "merchantId": "24f5de6b-35b4-45c3-a717-8368f4d49b60",
       "id": "8b33d5a1-5ed7ad6b-2eb9-4e15-9c63-893def4e1429",
       "accountId": "f4154036-8f42-42c5-8f01-00ea039d7d7b",
-      "categoryTags": [
-        "Bills and Utilities"
-      ]
+      "categoryTags": ["Bills and Utilities"]
     },
     {
       "description": "ADP PMT 35099889",
@@ -1932,9 +1730,7 @@
       "customerId": "8b33d5a1-1c8c-4fc8-ade8-d014f1f27ed6",
       "id": "8b33d5a1-60945723-cf64-4d16-b6cd-95d8fed91516",
       "accountId": "f4154036-8f42-42c5-8f01-00ea039d7d7b",
-      "categoryTags": [
-        "Income"
-      ]
+      "categoryTags": ["Income"]
     },
     {
       "locationCountry": "CA",
@@ -1950,9 +1746,7 @@
       "merchantId": "ee7400d4-10e2-402d-a63c-921860d6030b",
       "id": "8b33d5a1-60a16228-b72a-4ea5-8437-743bf8e82c9e",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Auto and Transport"
-      ]
+      "categoryTags": ["Auto and Transport"]
     },
     {
       "merchantCategoryCode": "9311",
@@ -1965,9 +1759,7 @@
       "merchantId": "d9dfeb8a-afcb-4c4a-aad1-7efd43fe9c4d",
       "id": "8b33d5a1-612ac698-9f1c-4c81-8da0-28d7f7259c09",
       "accountId": "f4154036-8f42-42c5-8f01-00ea039d7d7b",
-      "categoryTags": [
-        "Taxes"
-      ]
+      "categoryTags": ["Taxes"]
     },
     {
       "locationLongitude": -79.527194372,
@@ -1988,9 +1780,7 @@
       "id": "8b33d5a1-619172ad-4814-4b8f-82b4-d0a3436e35aa",
       "locationStreet": "4869 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationLongitude": -79.4743950146,
@@ -2011,9 +1801,7 @@
       "id": "8b33d5a1-622f9d02-2c1e-4f22-90bc-8f9f206e11f2",
       "locationStreet": "2180 Bloor St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "merchantCategoryCode": "4900",
@@ -2026,9 +1814,7 @@
       "merchantId": "f009e806-028d-4d16-9122-eadb912fac98",
       "id": "8b33d5a1-62cea5b6-d13d-4e17-9e6b-8efcc8f3d0f8",
       "accountId": "f4154036-8f42-42c5-8f01-00ea039d7d7b",
-      "categoryTags": [
-        "Bills and Utilities"
-      ]
+      "categoryTags": ["Bills and Utilities"]
     },
     {
       "locationLongitude": -79.5543838039,
@@ -2049,9 +1835,7 @@
       "id": "8b33d5a1-63c91f75-b5aa-488e-a8d6-28c6dd350ac4",
       "locationStreet": "165 North Queen St",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationLongitude": -79.5381323935,
@@ -2072,9 +1856,7 @@
       "id": "8b33d5a1-64d3c2b7-057e-4491-9b1d-d73d0254db0e",
       "locationStreet": "5230 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationLongitude": -79.5544695803,
@@ -2095,9 +1877,7 @@
       "id": "8b33d5a1-666d6f73-2776-4046-bd47-1ca3679deff1",
       "locationStreet": "250 The East Mall",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationLongitude": -79.5381323935,
@@ -2118,9 +1898,7 @@
       "id": "8b33d5a1-6823300d-d07e-4f4d-a177-45aa22ff921e",
       "locationStreet": "5230 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationLongitude": -79.5381323935,
@@ -2141,9 +1919,7 @@
       "id": "8b33d5a1-682444ba-7099-4154-87b5-407f34e4cce4",
       "locationStreet": "5230 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "description": "IFN TFR-TO 9904163",
@@ -2153,9 +1929,7 @@
       "customerId": "8b33d5a1-1c8c-4fc8-ade8-d014f1f27ed6",
       "id": "8b33d5a1-6890d38a-c142-45ce-a78b-bfe74a42fe7a",
       "accountId": "f4154036-8f42-42c5-8f01-00ea039d7d7b",
-      "categoryTags": [
-        "Transfer"
-      ]
+      "categoryTags": ["Transfer"]
     },
     {
       "locationLongitude": -79.5085107047,
@@ -2176,9 +1950,7 @@
       "id": "8b33d5a1-68dcdbeb-d69c-41f3-bb67-c54bd0fd2668",
       "locationStreet": "2955-2961 Bloor St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "merchantCategoryCode": "4900",
@@ -2191,9 +1963,7 @@
       "merchantId": "f009e806-028d-4d16-9122-eadb912fac98",
       "id": "8b33d5a1-6999b54a-1f16-4edf-9074-549cd59a2585",
       "accountId": "f4154036-8f42-42c5-8f01-00ea039d7d7b",
-      "categoryTags": [
-        "Bills and Utilities"
-      ]
+      "categoryTags": ["Bills and Utilities"]
     },
     {
       "merchantCategoryCode": "6012",
@@ -2205,9 +1975,7 @@
       "merchantId": "852223a6-f227-4e4c-818e-36bb880866f2",
       "id": "8b33d5a1-6a81f66f-a794-470c-abae-00a454181b3f",
       "accountId": "f4154036-8f42-42c5-8f01-00ea039d7d7b",
-      "categoryTags": [
-        "Transfer"
-      ]
+      "categoryTags": ["Transfer"]
     },
     {
       "merchantCategoryCode": "6300",
@@ -2220,9 +1988,7 @@
       "merchantId": "5d3dd80d-8ff0-4e7c-a02b-8b50aa63aae5",
       "id": "8b33d5a1-6bbae12d-7c34-45a0-aaec-158fe88a21d7",
       "accountId": "f4154036-8f42-42c5-8f01-00ea039d7d7b",
-      "categoryTags": [
-        "Bills and Utilities"
-      ]
+      "categoryTags": ["Bills and Utilities"]
     },
     {
       "description": "UZC TFR-TO 9904163",
@@ -2232,9 +1998,7 @@
       "customerId": "8b33d5a1-1c8c-4fc8-ade8-d014f1f27ed6",
       "id": "8b33d5a1-6c1c36e8-0bd9-4031-bbfb-340f1fdd611c",
       "accountId": "f4154036-8f42-42c5-8f01-00ea039d7d7b",
-      "categoryTags": [
-        "Transfer"
-      ]
+      "categoryTags": ["Transfer"]
     },
     {
       "locationCountry": "CA",
@@ -2250,9 +2014,7 @@
       "merchantId": "ee7400d4-10e2-402d-a63c-921860d6030b",
       "id": "8b33d5a1-6ca7354d-c281-4c00-9373-7153fd0ecb87",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Auto and Transport"
-      ]
+      "categoryTags": ["Auto and Transport"]
     },
     {
       "locationLongitude": -79.5389363074,
@@ -2273,9 +2035,7 @@
       "id": "8b33d5a1-6cbc4a51-8921-424a-a75a-93c67aca4c87",
       "locationStreet": "5250 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationLongitude": -79.5381323935,
@@ -2296,9 +2056,7 @@
       "id": "8b33d5a1-6cdc5530-0774-4c1a-8690-30f694e416ae",
       "locationStreet": "5230 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "merchantCategoryCode": "4900",
@@ -2311,9 +2069,7 @@
       "merchantId": "24f5de6b-35b4-45c3-a717-8368f4d49b60",
       "id": "8b33d5a1-6ced5c40-1921-45a6-8dca-19b01aa7d39b",
       "accountId": "f4154036-8f42-42c5-8f01-00ea039d7d7b",
-      "categoryTags": [
-        "Bills and Utilities"
-      ]
+      "categoryTags": ["Bills and Utilities"]
     },
     {
       "locationLongitude": -79.527194372,
@@ -2334,9 +2090,7 @@
       "id": "8b33d5a1-6e099da5-e0be-4978-b913-3c412db4f15e",
       "locationStreet": "4869 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationLongitude": -79.5381323935,
@@ -2357,9 +2111,7 @@
       "id": "8b33d5a1-6f416363-9c6c-4b89-9793-021eac871e00",
       "locationStreet": "5230 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationLongitude": -79.527194372,
@@ -2380,9 +2132,7 @@
       "id": "8b33d5a1-7074dec6-4644-4a84-8108-1a940bc08b32",
       "locationStreet": "4869 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "merchantCategoryCode": "4900",
@@ -2395,9 +2145,7 @@
       "merchantId": "f009e806-028d-4d16-9122-eadb912fac98",
       "id": "8b33d5a1-70fa5dfb-7a93-4f6a-8e91-5287472d9164",
       "accountId": "f4154036-8f42-42c5-8f01-00ea039d7d7b",
-      "categoryTags": [
-        "Bills and Utilities"
-      ]
+      "categoryTags": ["Bills and Utilities"]
     },
     {
       "locationLongitude": -79.5389363074,
@@ -2418,9 +2166,7 @@
       "id": "8b33d5a1-739362b2-fa7f-4c7a-b087-9cad719730b6",
       "locationStreet": "5250 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationLongitude": -79.4853049404,
@@ -2441,9 +2187,7 @@
       "id": "8b33d5a1-75d6ad32-fdc2-4a93-9b00-6e185f55f76e",
       "locationStreet": "2525 St Clair Ave W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationLongitude": -79.527194372,
@@ -2464,9 +2208,7 @@
       "id": "8b33d5a1-766142ce-5bf9-4c6c-a29b-37e7cfb1e9e7",
       "locationStreet": "4869 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "description": "ADP PMT 63370028",
@@ -2476,9 +2218,7 @@
       "customerId": "8b33d5a1-1c8c-4fc8-ade8-d014f1f27ed6",
       "id": "8b33d5a1-76a1f9c4-8308-4e99-b160-42d1995052dc",
       "accountId": "f4154036-8f42-42c5-8f01-00ea039d7d7b",
-      "categoryTags": [
-        "Income"
-      ]
+      "categoryTags": ["Income"]
     },
     {
       "locationLongitude": -79.5544695803,
@@ -2499,9 +2239,7 @@
       "id": "8b33d5a1-76e8e61d-3c4e-48f3-a4a3-30bb2c1ca283",
       "locationStreet": "250 The East Mall",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationCountry": "CA",
@@ -2517,9 +2255,7 @@
       "merchantId": "ee7400d4-10e2-402d-a63c-921860d6030b",
       "id": "8b33d5a1-7729c5fe-478d-4cb5-a79f-a0682c58726f",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Auto and Transport"
-      ]
+      "categoryTags": ["Auto and Transport"]
     },
     {
       "merchantCategoryCode": "4899",
@@ -2533,9 +2269,7 @@
       "merchantId": "fc63968c-c5c9-453b-965f-0254a4bcd68b",
       "id": "8b33d5a1-77804cb6-bfd7-47ba-a7e6-4165823f2894",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Bills and Utilities"
-      ]
+      "categoryTags": ["Bills and Utilities"]
     },
     {
       "locationLongitude": -79.527194372,
@@ -2556,9 +2290,7 @@
       "id": "8b33d5a1-77a0c8ba-8383-4baf-a161-9c82dffc5e2c",
       "locationStreet": "4869 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationLongitude": -79.527194372,
@@ -2579,9 +2311,7 @@
       "id": "8b33d5a1-784f3b69-1be2-44e0-beaa-954c9ee266b8",
       "locationStreet": "4869 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationLongitude": -79.5389363074,
@@ -2602,9 +2332,7 @@
       "id": "8b33d5a1-7be43818-306b-4afd-a970-09beb176613b",
       "locationStreet": "5250 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationLongitude": -79.3886879635,
@@ -2625,9 +2353,7 @@
       "id": "8b33d5a1-7c7f4217-f962-47cc-97ac-882c7a140c7b",
       "locationStreet": "55 Bloor St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Entertainment"
-      ]
+      "categoryTags": ["Entertainment"]
     },
     {
       "locationLongitude": -79.5389363074,
@@ -2648,9 +2374,7 @@
       "id": "8b33d5a1-7cf0af4b-26cc-4dd2-97a1-de201d74fb0d",
       "locationStreet": "5250 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationLongitude": -79.5286427455,
@@ -2671,9 +2395,7 @@
       "id": "8b33d5a1-7e4ff839-c0fe-46c2-aab4-f155bb368dda",
       "locationStreet": "4890 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Health and Fitness"
-      ]
+      "categoryTags": ["Health and Fitness"]
     },
     {
       "locationLongitude": -79.472202249,
@@ -2694,9 +2416,7 @@
       "id": "8b33d5a1-7e51236b-86b6-48e5-8510-ecb84911a9ad",
       "locationStreet": "2129 St Clair Ave W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Home"
-      ]
+      "categoryTags": ["Home"]
     },
     {
       "locationLongitude": -79.566580168,
@@ -2717,9 +2437,7 @@
       "id": "8b33d5a1-7ebeb3df-e61f-49b2-aa7f-8cfd7ab4bcb7",
       "locationStreet": "2025 Kipling Ave",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Home"
-      ]
+      "categoryTags": ["Home"]
     },
     {
       "locationLongitude": -79.5389363074,
@@ -2740,9 +2458,7 @@
       "id": "8b33d5a1-7f14a56c-9d12-4d63-93c7-08cd27c6b968",
       "locationStreet": "5250 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "description": "EmTFR  C0***qoV",
@@ -2753,9 +2469,7 @@
       "customerId": "8b33d5a1-1c8c-4fc8-ade8-d014f1f27ed6",
       "id": "8b33d5a1-7f73dcc6-0f10-4da0-8b64-f88313d9b872",
       "accountId": "f4154036-8f42-42c5-8f01-00ea039d7d7b",
-      "categoryTags": [
-        "Transfer"
-      ]
+      "categoryTags": ["Transfer"]
     },
     {
       "description": "ADP PMT 88957919",
@@ -2765,9 +2479,7 @@
       "customerId": "8b33d5a1-1c8c-4fc8-ade8-d014f1f27ed6",
       "id": "8b33d5a1-7fde06ed-72b6-4d18-a5f8-1a6aec316551",
       "accountId": "f4154036-8f42-42c5-8f01-00ea039d7d7b",
-      "categoryTags": [
-        "Income"
-      ]
+      "categoryTags": ["Income"]
     },
     {
       "locationLongitude": -79.527194372,
@@ -2788,9 +2500,7 @@
       "id": "8b33d5a1-830c07ca-f099-4466-a57a-5140843ea608",
       "locationStreet": "4869 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationLongitude": -79.472202249,
@@ -2811,9 +2521,7 @@
       "id": "8b33d5a1-84d2a532-11c8-4b93-b654-15e7180a96a8",
       "locationStreet": "2129 St Clair Ave W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Home"
-      ]
+      "categoryTags": ["Home"]
     },
     {
       "description": "ADP PMT 69389820",
@@ -2823,9 +2531,7 @@
       "customerId": "8b33d5a1-1c8c-4fc8-ade8-d014f1f27ed6",
       "id": "8b33d5a1-86066266-b07e-4c04-9987-f6d6b0c11616",
       "accountId": "f4154036-8f42-42c5-8f01-00ea039d7d7b",
-      "categoryTags": [
-        "Income"
-      ]
+      "categoryTags": ["Income"]
     },
     {
       "merchantCategoryCode": "9311",
@@ -2838,9 +2544,7 @@
       "merchantId": "d9dfeb8a-afcb-4c4a-aad1-7efd43fe9c4d",
       "id": "8b33d5a1-86e6f26e-dff5-4501-8065-d635a5ab92c1",
       "accountId": "f4154036-8f42-42c5-8f01-00ea039d7d7b",
-      "categoryTags": [
-        "Taxes"
-      ]
+      "categoryTags": ["Taxes"]
     },
     {
       "locationLongitude": -79.543720924,
@@ -2861,9 +2565,7 @@
       "id": "8b33d5a1-8858db62-8757-468d-9f35-7284e6107092",
       "locationStreet": "5485 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationLongitude": -79.5543838039,
@@ -2884,9 +2586,7 @@
       "id": "8b33d5a1-887c910b-2ae0-4e06-861f-4e1f57abb331",
       "locationStreet": "165 North Queen St",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "merchantCategoryCode": "4900",
@@ -2899,9 +2599,7 @@
       "merchantId": "24f5de6b-35b4-45c3-a717-8368f4d49b60",
       "id": "8b33d5a1-88c7e479-24df-41d1-8a7a-a2c0feebd8b5",
       "accountId": "f4154036-8f42-42c5-8f01-00ea039d7d7b",
-      "categoryTags": [
-        "Bills and Utilities"
-      ]
+      "categoryTags": ["Bills and Utilities"]
     },
     {
       "locationLongitude": -79.5389363074,
@@ -2922,9 +2620,7 @@
       "id": "8b33d5a1-890fc07e-82e9-4529-8795-00f025f41ee4",
       "locationStreet": "5250 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationLongitude": -79.5085107047,
@@ -2945,9 +2641,7 @@
       "id": "8b33d5a1-892c3c4d-3cad-4e3f-9955-2b27d295ff8a",
       "locationStreet": "2955-2961 Bloor St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationLongitude": -79.5389363074,
@@ -2968,9 +2662,7 @@
       "id": "8b33d5a1-8b8ba0fb-6f6e-4c92-8ca7-a9cc94be73d6",
       "locationStreet": "5250 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "description": "CANADA CPP 19838169",
@@ -2980,9 +2672,7 @@
       "customerId": "8b33d5a1-1c8c-4fc8-ade8-d014f1f27ed6",
       "id": "8b33d5a1-8c7947b0-7c9d-4d22-bc4c-7b9b3dba7c9e",
       "accountId": "f4154036-8f42-42c5-8f01-00ea039d7d7b",
-      "categoryTags": [
-        "Income"
-      ]
+      "categoryTags": ["Income"]
     },
     {
       "locationLongitude": -79.527194372,
@@ -3003,9 +2693,7 @@
       "id": "8b33d5a1-8d1b13fa-6869-4399-83e1-1629f924a830",
       "locationStreet": "4869 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationLongitude": -79.4853049404,
@@ -3026,9 +2714,7 @@
       "id": "8b33d5a1-8e2a052c-641c-4c65-a777-a22744876792",
       "locationStreet": "2525 St Clair Ave W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationLongitude": -79.5389363074,
@@ -3049,9 +2735,7 @@
       "id": "8b33d5a1-8e388e7e-3559-409a-bcff-eae2ec4e1b7c",
       "locationStreet": "5250 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "description": "CANADA CPP 81871984",
@@ -3061,9 +2745,7 @@
       "customerId": "8b33d5a1-1c8c-4fc8-ade8-d014f1f27ed6",
       "id": "8b33d5a1-8e90f99d-e21a-4bcd-aba4-b908fab51cfd",
       "accountId": "f4154036-8f42-42c5-8f01-00ea039d7d7b",
-      "categoryTags": [
-        "Income"
-      ]
+      "categoryTags": ["Income"]
     },
     {
       "locationLongitude": -79.5381323935,
@@ -3084,9 +2766,7 @@
       "id": "8b33d5a1-8efa3f86-86f0-4ce0-aee6-8488f139bee6",
       "locationStreet": "5230 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationCountry": "CA",
@@ -3102,9 +2782,7 @@
       "merchantId": "ee7400d4-10e2-402d-a63c-921860d6030b",
       "id": "8b33d5a1-8f271afd-3682-419d-8669-57dffcbd5753",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Auto and Transport"
-      ]
+      "categoryTags": ["Auto and Transport"]
     },
     {
       "locationLongitude": -79.527194372,
@@ -3125,9 +2803,7 @@
       "id": "8b33d5a1-8f36dae0-3b4c-44d8-9eb7-a56b890d3573",
       "locationStreet": "4869 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "merchantCategoryCode": "5714",
@@ -3140,9 +2816,7 @@
       "merchantId": "d761190d-23d3-4373-9cda-15086c2afcca",
       "id": "8b33d5a1-8f458041-5d58-4893-b317-33ead96b6912",
       "accountId": "f4154036-8f42-42c5-8f01-00ea039d7d7b",
-      "categoryTags": [
-        "Home"
-      ]
+      "categoryTags": ["Home"]
     },
     {
       "locationLongitude": -79.5544695803,
@@ -3163,9 +2837,7 @@
       "id": "8b33d5a1-8faca704-52cb-4479-a640-19839e9af36b",
       "locationStreet": "250 The East Mall",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "merchantCategoryCode": "4899",
@@ -3179,9 +2851,7 @@
       "merchantId": "fc63968c-c5c9-453b-965f-0254a4bcd68b",
       "id": "8b33d5a1-903783a6-128f-4752-90f2-8b71dd48b71d",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Bills and Utilities"
-      ]
+      "categoryTags": ["Bills and Utilities"]
     },
     {
       "locationLongitude": -79.5544695803,
@@ -3202,9 +2872,7 @@
       "id": "8b33d5a1-9096cfa6-0acd-42da-ace5-67bd4488c24a",
       "locationStreet": "250 The East Mall",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationLongitude": -79.527194372,
@@ -3225,9 +2893,7 @@
       "id": "8b33d5a1-91481b42-709d-4719-83ce-a8771ce04a0b",
       "locationStreet": "4869 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationLongitude": -79.5381323935,
@@ -3248,9 +2914,7 @@
       "id": "8b33d5a1-925c3ed2-803c-4b78-a4b0-deb9e54595cc",
       "locationStreet": "5230 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "merchantCategoryCode": "4900",
@@ -3263,9 +2927,7 @@
       "merchantId": "0403a261-0597-4e79-978a-91aec36ba5fd",
       "id": "8b33d5a1-93350538-4921-40b8-ac28-9ede8c75b336",
       "accountId": "f4154036-8f42-42c5-8f01-00ea039d7d7b",
-      "categoryTags": [
-        "Bills and Utilities"
-      ]
+      "categoryTags": ["Bills and Utilities"]
     },
     {
       "locationLongitude": -79.566580168,
@@ -3286,9 +2948,7 @@
       "id": "8b33d5a1-93d41861-ca54-45ee-ba5f-5cca753f647c",
       "locationStreet": "2025 Kipling Ave",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Home"
-      ]
+      "categoryTags": ["Home"]
     },
     {
       "locationLongitude": -79.390976944,
@@ -3309,9 +2969,7 @@
       "id": "8b33d5a1-9589e154-ce10-4628-b0dd-135e6d1267a4",
       "locationStreet": "259 Richmond St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Entertainment"
-      ]
+      "categoryTags": ["Entertainment"]
     },
     {
       "locationLongitude": -79.5389363074,
@@ -3332,9 +2990,7 @@
       "id": "8b33d5a1-958d4eea-db0d-4744-9482-18c802bc7322",
       "locationStreet": "5250 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "merchantCategoryCode": "4900",
@@ -3347,9 +3003,7 @@
       "merchantId": "24f5de6b-35b4-45c3-a717-8368f4d49b60",
       "id": "8b33d5a1-95b2f963-97fd-4085-8d90-f567d2cf2a0a",
       "accountId": "f4154036-8f42-42c5-8f01-00ea039d7d7b",
-      "categoryTags": [
-        "Bills and Utilities"
-      ]
+      "categoryTags": ["Bills and Utilities"]
     },
     {
       "locationLongitude": -79.4853049404,
@@ -3370,9 +3024,7 @@
       "id": "8b33d5a1-98a39d3d-466a-4b13-bc97-67f56e7583d1",
       "locationStreet": "2525 St Clair Ave W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationLongitude": -79.566580168,
@@ -3393,9 +3045,7 @@
       "id": "8b33d5a1-98b0b661-fa53-4242-9eab-a85726a95e17",
       "locationStreet": "2025 Kipling Ave",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Home"
-      ]
+      "categoryTags": ["Home"]
     },
     {
       "locationLongitude": -79.527194372,
@@ -3416,9 +3066,7 @@
       "id": "8b33d5a1-9adbe00b-ecaa-4bca-ae64-fa77effc9682",
       "locationStreet": "4869 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationLongitude": -79.527194372,
@@ -3439,9 +3087,7 @@
       "id": "8b33d5a1-9b499e5b-5e7d-4620-9f7f-0d1dc8bd9791",
       "locationStreet": "4869 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationLongitude": -79.5389363074,
@@ -3462,9 +3108,7 @@
       "id": "8b33d5a1-9bc8d31a-9962-4873-8567-3bca4443fb9f",
       "locationStreet": "5250 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationLongitude": -79.527194372,
@@ -3485,9 +3129,7 @@
       "id": "8b33d5a1-9cf96c5c-3d50-469a-842c-3cea1b30e9fa",
       "locationStreet": "4869 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationLongitude": -79.5389363074,
@@ -3508,9 +3150,7 @@
       "id": "8b33d5a1-9e4a9c3f-dcec-4e0b-b1f4-6f5ad653dfb4",
       "locationStreet": "5250 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationLongitude": -79.5543838039,
@@ -3531,9 +3171,7 @@
       "id": "8b33d5a1-9e79116c-b0a3-4b05-9ded-3a7899f265ae",
       "locationStreet": "165 North Queen St",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "description": "ADP PMT 78889888",
@@ -3543,9 +3181,7 @@
       "customerId": "8b33d5a1-1c8c-4fc8-ade8-d014f1f27ed6",
       "id": "8b33d5a1-9eb0d0c2-6ff3-48f6-bccd-9cfd0a180f50",
       "accountId": "f4154036-8f42-42c5-8f01-00ea039d7d7b",
-      "categoryTags": [
-        "Income"
-      ]
+      "categoryTags": ["Income"]
     },
     {
       "description": "CANADA CPP 98890999",
@@ -3555,9 +3191,7 @@
       "customerId": "8b33d5a1-1c8c-4fc8-ade8-d014f1f27ed6",
       "id": "8b33d5a1-a00c6dd4-1eca-4f89-886e-0aa94a3c5eb1",
       "accountId": "f4154036-8f42-42c5-8f01-00ea039d7d7b",
-      "categoryTags": [
-        "Income"
-      ]
+      "categoryTags": ["Income"]
     },
     {
       "locationLongitude": -79.4743950146,
@@ -3578,9 +3212,7 @@
       "id": "8b33d5a1-a00e5ed4-b0b0-4b57-a301-ce27ef558d0c",
       "locationStreet": "2180 Bloor St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationLongitude": -79.5286427455,
@@ -3601,9 +3233,7 @@
       "id": "8b33d5a1-a357484d-4024-4c11-b990-5abed1a5351d",
       "locationStreet": "4890 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Health and Fitness"
-      ]
+      "categoryTags": ["Health and Fitness"]
     },
     {
       "locationCountry": "CA",
@@ -3619,9 +3249,7 @@
       "merchantId": "ee7400d4-10e2-402d-a63c-921860d6030b",
       "id": "8b33d5a1-a438c1f1-e21a-4baa-9dd7-58c47dcc3532",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Auto and Transport"
-      ]
+      "categoryTags": ["Auto and Transport"]
     },
     {
       "locationLongitude": -79.5544695803,
@@ -3642,9 +3270,7 @@
       "id": "8b33d5a1-a5b7ac3c-3114-4521-a490-dae63466e123",
       "locationStreet": "250 The East Mall",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationCountry": "CA",
@@ -3660,9 +3286,7 @@
       "merchantId": "ee7400d4-10e2-402d-a63c-921860d6030b",
       "id": "8b33d5a1-a64b5a64-d1d7-462a-af3c-2ee455856c03",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Auto and Transport"
-      ]
+      "categoryTags": ["Auto and Transport"]
     },
     {
       "description": "ADP PMT 98235388",
@@ -3672,9 +3296,7 @@
       "customerId": "8b33d5a1-1c8c-4fc8-ade8-d014f1f27ed6",
       "id": "8b33d5a1-a92613e7-6dca-4e23-af9c-85f07373f568",
       "accountId": "f4154036-8f42-42c5-8f01-00ea039d7d7b",
-      "categoryTags": [
-        "Income"
-      ]
+      "categoryTags": ["Income"]
     },
     {
       "merchantCategoryCode": "9311",
@@ -3687,9 +3309,7 @@
       "merchantId": "d9dfeb8a-afcb-4c4a-aad1-7efd43fe9c4d",
       "id": "8b33d5a1-aaa2e3a0-9a97-4b21-8b78-d8875c25d21d",
       "accountId": "f4154036-8f42-42c5-8f01-00ea039d7d7b",
-      "categoryTags": [
-        "Taxes"
-      ]
+      "categoryTags": ["Taxes"]
     },
     {
       "description": "ADP PMT 18934790",
@@ -3699,9 +3319,7 @@
       "customerId": "8b33d5a1-1c8c-4fc8-ade8-d014f1f27ed6",
       "id": "8b33d5a1-ab302924-4067-4c5a-a936-d865d3cf84d5",
       "accountId": "f4154036-8f42-42c5-8f01-00ea039d7d7b",
-      "categoryTags": [
-        "Income"
-      ]
+      "categoryTags": ["Income"]
     },
     {
       "merchantCategoryCode": "4900",
@@ -3714,9 +3332,7 @@
       "merchantId": "f009e806-028d-4d16-9122-eadb912fac98",
       "id": "8b33d5a1-ac8c1ed6-e5a1-4324-8cda-339249c11b4e",
       "accountId": "f4154036-8f42-42c5-8f01-00ea039d7d7b",
-      "categoryTags": [
-        "Bills and Utilities"
-      ]
+      "categoryTags": ["Bills and Utilities"]
     },
     {
       "merchantCategoryCode": "9311",
@@ -3729,9 +3345,7 @@
       "merchantId": "d9dfeb8a-afcb-4c4a-aad1-7efd43fe9c4d",
       "id": "8b33d5a1-ae185322-fa30-4391-ba6d-9af056e97836",
       "accountId": "f4154036-8f42-42c5-8f01-00ea039d7d7b",
-      "categoryTags": [
-        "Taxes"
-      ]
+      "categoryTags": ["Taxes"]
     },
     {
       "locationLongitude": -79.527194372,
@@ -3752,9 +3366,7 @@
       "id": "8b33d5a1-af90c2e4-98c0-48f6-965c-ffdb10dcb676",
       "locationStreet": "4869 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationLongitude": -79.527194372,
@@ -3775,9 +3387,7 @@
       "id": "8b33d5a1-b0e4d7f9-e132-437d-9739-c9825523643a",
       "locationStreet": "4869 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationLongitude": -79.5381323935,
@@ -3798,9 +3408,7 @@
       "id": "8b33d5a1-b13113eb-e309-495c-9fb9-ba5fcab31dae",
       "locationStreet": "5230 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationLongitude": -79.5389363074,
@@ -3821,9 +3429,7 @@
       "id": "8b33d5a1-b1788c91-93b2-441f-991f-f43f662b8042",
       "locationStreet": "5250 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationLongitude": -79.5389363074,
@@ -3844,9 +3450,7 @@
       "id": "8b33d5a1-b1c05856-2925-4b32-9f72-e335d0b7a05f",
       "locationStreet": "5250 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationLongitude": -79.5389363074,
@@ -3867,9 +3471,7 @@
       "id": "8b33d5a1-b1e1eaa8-1f6d-4e1d-bfd6-96c0ab1badc8",
       "locationStreet": "5250 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationLongitude": -79.5381323935,
@@ -3890,9 +3492,7 @@
       "id": "8b33d5a1-b23c735e-4dbf-4882-9fc4-fff5acb39e2c",
       "locationStreet": "5230 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationLongitude": -79.5389363074,
@@ -3913,9 +3513,7 @@
       "id": "8b33d5a1-b251d806-0584-4dcf-a6c4-62724c528980",
       "locationStreet": "5250 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationLongitude": -79.5543838039,
@@ -3936,9 +3534,7 @@
       "id": "8b33d5a1-b30d62eb-430e-4a6c-b79f-1f54d8b6038f",
       "locationStreet": "165 North Queen St",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationLongitude": -79.5381323935,
@@ -3959,9 +3555,7 @@
       "id": "8b33d5a1-b6023f51-3047-4f2e-b7f1-effe2652dc9a",
       "locationStreet": "5230 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationLongitude": -79.5543838039,
@@ -3982,9 +3576,7 @@
       "id": "8b33d5a1-b666d110-9fea-4fd2-b9d4-a2a1d6d185c4",
       "locationStreet": "165 North Queen St",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationLongitude": -79.4888177211,
@@ -4005,9 +3597,7 @@
       "id": "8b33d5a1-b704e696-c3ac-4ef7-b3c9-8eb994d3ba5c",
       "locationStreet": "3520 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationLongitude": -79.5389363074,
@@ -4028,9 +3618,7 @@
       "id": "8b33d5a1-b87d8857-749d-4d0e-8b2a-c4b7ce1befe6",
       "locationStreet": "5250 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationLongitude": -79.5381323935,
@@ -4051,9 +3639,7 @@
       "id": "8b33d5a1-ba31504e-49f5-4b00-afdb-d46b191c1709",
       "locationStreet": "5230 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationLongitude": -79.527194372,
@@ -4074,9 +3660,7 @@
       "id": "8b33d5a1-baac85e6-213c-44c4-a04e-eb6759a20b0b",
       "locationStreet": "4869 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "8b33d5a1-27939341-c2b2-4811-8010-d7da6ae68ce4": ["Food and Dining"]
     },
     {
       "description": "ADP PMT 55298571",
@@ -4086,9 +3670,7 @@
       "customerId": "8b33d5a1-1c8c-4fc8-ade8-d014f1f27ed6",
       "id": "8b33d5a1-bb2c8d9b-cfad-4166-a9a7-431a72b734bc",
       "accountId": "f4154036-8f42-42c5-8f01-00ea039d7d7b",
-      "categoryTags": [
-        "Income"
-      ]
+      "categoryTags": ["Income"]
     },
     {
       "merchantCategoryCode": "4816",
@@ -4101,9 +3683,7 @@
       "merchantId": "3d99af81-c081-4d73-bc44-d3a8e639b22a",
       "id": "8b33d5a1-bb7dbaff-fb61-4fa6-93d3-d7b1d77f0c41",
       "accountId": "f4154036-8f42-42c5-8f01-00ea039d7d7b",
-      "categoryTags": [
-        "Bills and Utilities"
-      ]
+      "categoryTags": ["Bills and Utilities"]
     },
     {
       "locationLongitude": -79.543720924,
@@ -4124,9 +3704,7 @@
       "id": "8b33d5a1-bbda33c9-ba50-40b9-9baa-7be0d5753451",
       "locationStreet": "5485 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationLongitude": -79.452088185,
@@ -4147,9 +3725,7 @@
       "id": "8b33d5a1-bcc06cd5-f66f-4ab6-9695-9050e1795c20",
       "locationStreet": "1896 Eglinton Ave W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Health and Fitness"
-      ]
+      "categoryTags": ["Health and Fitness"]
     },
     {
       "locationLongitude": -79.527194372,
@@ -4170,9 +3746,7 @@
       "id": "8b33d5a1-bcd959d0-ee59-49f6-a6d6-c05dd10d0865",
       "locationStreet": "4869 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationLongitude": -79.527194372,
@@ -4193,9 +3767,7 @@
       "id": "8b33d5a1-bd0ba385-c1ca-41ac-accb-756aa7302cca",
       "locationStreet": "4869 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationLongitude": -79.527194372,
@@ -4216,9 +3788,7 @@
       "id": "8b33d5a1-be213bd5-cbe9-44e3-bd91-02ddf7c91e01",
       "locationStreet": "4869 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "description": "CANADA CPP 23929088",
@@ -4228,9 +3798,7 @@
       "customerId": "8b33d5a1-1c8c-4fc8-ade8-d014f1f27ed6",
       "id": "8b33d5a1-be97e767-30e8-4f80-9b95-5f95028f48b2",
       "accountId": "f4154036-8f42-42c5-8f01-00ea039d7d7b",
-      "categoryTags": [
-        "Income"
-      ]
+      "categoryTags": ["Income"]
     },
     {
       "locationLongitude": -79.527194372,
@@ -4251,9 +3819,7 @@
       "id": "8b33d5a1-bf016e99-b1cd-42d1-a5be-7ac09f727113",
       "locationStreet": "4869 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationLongitude": -79.5389363074,
@@ -4274,9 +3840,7 @@
       "id": "8b33d5a1-bfa9673d-429f-4950-b0e1-4d26e66e926e",
       "locationStreet": "5250 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationLongitude": -79.5381323935,
@@ -4297,9 +3861,7 @@
       "id": "8b33d5a1-c03c5754-f024-4bf1-b3b9-0e8d28513d1b",
       "locationStreet": "5230 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "merchantCategoryCode": "4899",
@@ -4313,9 +3875,7 @@
       "merchantId": "fc63968c-c5c9-453b-965f-0254a4bcd68b",
       "id": "8b33d5a1-c1e3208d-872d-49da-a74a-5c0e4e5c1c3d",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Bills and Utilities"
-      ]
+      "categoryTags": ["Bills and Utilities"]
     },
     {
       "description": "BVH TFR-TO 9904163",
@@ -4325,9 +3885,7 @@
       "customerId": "8b33d5a1-1c8c-4fc8-ade8-d014f1f27ed6",
       "id": "8b33d5a1-c1ece9f0-2da2-49d9-a17f-53c867656216",
       "accountId": "f4154036-8f42-42c5-8f01-00ea039d7d7b",
-      "categoryTags": [
-        "Transfer"
-      ]
+      "categoryTags": ["Transfer"]
     },
     {
       "locationLongitude": -79.5544695803,
@@ -4348,9 +3906,7 @@
       "id": "8b33d5a1-c2c173c9-8e9d-4149-9e5e-00692ae6c1f1",
       "locationStreet": "250 The East Mall",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Shopping"
-      ]
+      "categoryTags": ["Shopping"]
     },
     {
       "merchantCategoryCode": "4816",
@@ -4363,9 +3919,7 @@
       "merchantId": "3d99af81-c081-4d73-bc44-d3a8e639b22a",
       "id": "8b33d5a1-c2f73759-6fa7-4406-931c-b5bd9226cd5d",
       "accountId": "f4154036-8f42-42c5-8f01-00ea039d7d7b",
-      "categoryTags": [
-        "Bills and Utilities"
-      ]
+      "categoryTags": ["Bills and Utilities"]
     },
     {
       "merchantCategoryCode": "6300",
@@ -4378,9 +3932,7 @@
       "merchantId": "5d3dd80d-8ff0-4e7c-a02b-8b50aa63aae5",
       "id": "8b33d5a1-c351f5da-a957-4369-b0b6-1fc5fba3c025",
       "accountId": "f4154036-8f42-42c5-8f01-00ea039d7d7b",
-      "categoryTags": [
-        "Bills and Utilities"
-      ]
+      "categoryTags": ["Bills and Utilities"]
     },
     {
       "locationLongitude": -79.5544695803,
@@ -4401,9 +3953,7 @@
       "id": "8b33d5a1-c51723e8-cae0-4809-9feb-dddb6b34a7f0",
       "locationStreet": "250 The East Mall",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationCountry": "CA",
@@ -4419,9 +3969,7 @@
       "merchantId": "ee7400d4-10e2-402d-a63c-921860d6030b",
       "id": "8b33d5a1-c653435c-531a-4b3c-b921-1c67d28b5763",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Auto and Transport"
-      ]
+      "categoryTags": ["Auto and Transport"]
     },
     {
       "merchantCategoryCode": "6300",
@@ -4434,9 +3982,7 @@
       "merchantId": "5d3dd80d-8ff0-4e7c-a02b-8b50aa63aae5",
       "id": "8b33d5a1-c8ee3325-d882-4d3f-8289-d9529fc36b05",
       "accountId": "f4154036-8f42-42c5-8f01-00ea039d7d7b",
-      "categoryTags": [
-        "Bills and Utilities"
-      ]
+      "categoryTags": ["Bills and Utilities"]
     },
     {
       "locationLongitude": -79.5381323935,
@@ -4457,9 +4003,7 @@
       "id": "8b33d5a1-c9cf1ae4-65d8-412e-a502-bb2123a2fcd2",
       "locationStreet": "5230 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationLongitude": -79.527194372,
@@ -4480,9 +4024,7 @@
       "id": "8b33d5a1-cc9dc05d-ee4e-49e7-a825-b9e0d7007774",
       "locationStreet": "4869 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "description": "CANADA CPP 88978989",
@@ -4492,9 +4034,7 @@
       "customerId": "8b33d5a1-1c8c-4fc8-ade8-d014f1f27ed6",
       "id": "8b33d5a1-cd597df9-fd96-4032-ba5d-d904d9765fec",
       "accountId": "f4154036-8f42-42c5-8f01-00ea039d7d7b",
-      "categoryTags": [
-        "Income"
-      ]
+      "categoryTags": ["Income"]
     },
     {
       "locationLongitude": -79.5389363074,
@@ -4515,9 +4055,7 @@
       "id": "8b33d5a1-cddfb2d4-1696-48b1-b41e-c077e3c40536",
       "locationStreet": "5250 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "merchantCategoryCode": "6300",
@@ -4530,9 +4068,7 @@
       "merchantId": "5d3dd80d-8ff0-4e7c-a02b-8b50aa63aae5",
       "id": "8b33d5a1-cfa29b60-9629-4f0f-bdb0-d6673bf4bc40",
       "accountId": "f4154036-8f42-42c5-8f01-00ea039d7d7b",
-      "categoryTags": [
-        "Bills and Utilities"
-      ]
+      "categoryTags": ["Bills and Utilities"]
     },
     {
       "description": "CANADA CPP 88866315",
@@ -4542,9 +4078,7 @@
       "customerId": "8b33d5a1-1c8c-4fc8-ade8-d014f1f27ed6",
       "id": "8b33d5a1-cfa2d7fe-3faf-4fb7-b9c5-baecc7105474",
       "accountId": "f4154036-8f42-42c5-8f01-00ea039d7d7b",
-      "categoryTags": [
-        "Income"
-      ]
+      "categoryTags": ["Income"]
     },
     {
       "locationLongitude": -79.566580168,
@@ -4565,9 +4099,7 @@
       "id": "8b33d5a1-d0b79d29-81cd-40b8-b2b6-07d01a6fc2a6",
       "locationStreet": "2025 Kipling Ave",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Home"
-      ]
+      "categoryTags": ["Home"]
     },
     {
       "description": "CANADA CPP 93629249",
@@ -4577,9 +4109,7 @@
       "customerId": "8b33d5a1-1c8c-4fc8-ade8-d014f1f27ed6",
       "id": "8b33d5a1-d18a5398-5557-402b-b054-70da327a54c0",
       "accountId": "f4154036-8f42-42c5-8f01-00ea039d7d7b",
-      "categoryTags": [
-        "Income"
-      ]
+      "categoryTags": ["Income"]
     },
     {
       "merchantCategoryCode": "6300",
@@ -4592,9 +4122,7 @@
       "merchantId": "5d3dd80d-8ff0-4e7c-a02b-8b50aa63aae5",
       "id": "8b33d5a1-d2ab193c-09a2-4d3e-810f-ed283d09482c",
       "accountId": "f4154036-8f42-42c5-8f01-00ea039d7d7b",
-      "categoryTags": [
-        "Bills and Utilities"
-      ]
+      "categoryTags": ["Bills and Utilities"]
     },
     {
       "locationLongitude": -79.527194372,
@@ -4615,9 +4143,7 @@
       "id": "8b33d5a1-d566adf9-6074-4166-9aac-add5616295a4",
       "locationStreet": "4869 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationLongitude": -79.527194372,
@@ -4638,9 +4164,7 @@
       "id": "8b33d5a1-d5708f8d-c375-4814-8c73-7821e0758403",
       "locationStreet": "4869 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "merchantCategoryCode": "4900",
@@ -4653,9 +4177,7 @@
       "merchantId": "24f5de6b-35b4-45c3-a717-8368f4d49b60",
       "id": "8b33d5a1-d591a5ce-1a7f-4ce9-a026-21d2776d8720",
       "accountId": "f4154036-8f42-42c5-8f01-00ea039d7d7b",
-      "categoryTags": [
-        "Bills and Utilities"
-      ]
+      "categoryTags": ["Bills and Utilities"]
     },
     {
       "description": "ADP PMT 18899873",
@@ -4665,9 +4187,7 @@
       "customerId": "8b33d5a1-1c8c-4fc8-ade8-d014f1f27ed6",
       "id": "8b33d5a1-d62a1187-9e5c-4c5e-97a0-aee72b90a9e3",
       "accountId": "f4154036-8f42-42c5-8f01-00ea039d7d7b",
-      "categoryTags": [
-        "Income"
-      ]
+      "categoryTags": ["Income"]
     },
     {
       "locationLongitude": -79.5389363074,
@@ -4688,9 +4208,7 @@
       "id": "8b33d5a1-d7875ee7-c147-4bc1-a15d-e5eb1a5d18b4",
       "locationStreet": "5250 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "merchantCategoryCode": "6012",
@@ -4702,9 +4220,7 @@
       "merchantId": "852223a6-f227-4e4c-818e-36bb880866f2",
       "id": "8b33d5a1-d7b28be0-b88b-479b-abd3-a0d32a371ac6",
       "accountId": "f4154036-8f42-42c5-8f01-00ea039d7d7b",
-      "categoryTags": [
-        "Transfer"
-      ]
+      "categoryTags": ["Transfer"]
     },
     {
       "locationCountry": "CA",
@@ -4720,9 +4236,7 @@
       "merchantId": "ee7400d4-10e2-402d-a63c-921860d6030b",
       "id": "8b33d5a1-d81582dc-c9ac-4c03-b1b0-e32230adc629",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Auto and Transport"
-      ]
+      "categoryTags": ["Auto and Transport"]
     },
     {
       "merchantCategoryCode": "6012",
@@ -4734,9 +4248,7 @@
       "merchantId": "852223a6-f227-4e4c-818e-36bb880866f2",
       "id": "8b33d5a1-d853487d-5c19-49c6-8bb3-347b661253f9",
       "accountId": "f4154036-8f42-42c5-8f01-00ea039d7d7b",
-      "categoryTags": [
-        "Transfer"
-      ]
+      "categoryTags": ["Transfer"]
     },
     {
       "locationLongitude": -79.472202249,
@@ -4757,9 +4269,7 @@
       "id": "8b33d5a1-dbdff7e3-d23c-4862-8b33-d1d6b27898ab",
       "locationStreet": "2129 St Clair Ave W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Home"
-      ]
+      "categoryTags": ["Home"]
     },
     {
       "locationLongitude": -79.4853049404,
@@ -4780,9 +4290,7 @@
       "id": "8b33d5a1-dc1851ba-547c-4003-8997-6658a0237849",
       "locationStreet": "2525 St Clair Ave W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationLongitude": -79.3886879635,
@@ -4803,9 +4311,7 @@
       "id": "8b33d5a1-dc2a17d6-6a7d-4c39-9ec6-b3172790a6d7",
       "locationStreet": "55 Bloor St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Entertainment"
-      ]
+      "categoryTags": ["Entertainment"]
     },
     {
       "locationLongitude": -79.5389363074,
@@ -4826,9 +4332,7 @@
       "id": "8b33d5a1-dc42b2de-47c0-45db-b901-13ed1bb35910",
       "locationStreet": "5250 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationCountry": "CA",
@@ -4844,9 +4348,7 @@
       "merchantId": "ee7400d4-10e2-402d-a63c-921860d6030b",
       "id": "8b33d5a1-dde643d8-1c32-4143-97d6-cc22d5ec74ab",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Auto and Transport"
-      ]
+      "categoryTags": ["Auto and Transport"]
     },
     {
       "merchantCategoryCode": "4816",
@@ -4859,9 +4361,7 @@
       "merchantId": "3d99af81-c081-4d73-bc44-d3a8e639b22a",
       "id": "8b33d5a1-de6c5f28-0f29-4943-a2e6-bacce03af69c",
       "accountId": "f4154036-8f42-42c5-8f01-00ea039d7d7b",
-      "categoryTags": [
-        "Bills and Utilities"
-      ]
+      "categoryTags": ["Bills and Utilities"]
     },
     {
       "description": "CANADA CPP 19889110",
@@ -4871,9 +4371,7 @@
       "customerId": "8b33d5a1-1c8c-4fc8-ade8-d014f1f27ed6",
       "id": "8b33d5a1-de834b26-713f-4a1f-8ce9-9cf30ca0d234",
       "accountId": "f4154036-8f42-42c5-8f01-00ea039d7d7b",
-      "categoryTags": [
-        "Income"
-      ]
+      "categoryTags": ["Income"]
     },
     {
       "description": "ADP PMT 91196887",
@@ -4883,9 +4381,7 @@
       "customerId": "8b33d5a1-1c8c-4fc8-ade8-d014f1f27ed6",
       "id": "8b33d5a1-df5ba5ca-1311-404f-8194-986d6804973e",
       "accountId": "f4154036-8f42-42c5-8f01-00ea039d7d7b",
-      "categoryTags": [
-        "Income"
-      ]
+      "categoryTags": ["Income"]
     },
     {
       "locationLongitude": -79.5389363074,
@@ -4906,9 +4402,7 @@
       "id": "8b33d5a1-e1e441f5-5aac-4741-8b27-e614e09b0f42",
       "locationStreet": "5250 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationLongitude": -79.5389363074,
@@ -4929,9 +4423,7 @@
       "id": "8b33d5a1-e595c884-8532-4fa2-9ec2-17aea8e4e858",
       "locationStreet": "5250 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationLongitude": -79.5389363074,
@@ -4952,9 +4444,7 @@
       "id": "8b33d5a1-e6f7fb1e-ab96-4daa-8f39-d9eb4ca3b784",
       "locationStreet": "5250 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationLongitude": -79.527194372,
@@ -4975,9 +4465,7 @@
       "id": "8b33d5a1-e79ea4a9-5b1d-4940-9757-d4ed788bde53",
       "locationStreet": "4869 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "merchantCategoryCode": "4816",
@@ -4990,9 +4478,7 @@
       "merchantId": "3d99af81-c081-4d73-bc44-d3a8e639b22a",
       "id": "8b33d5a1-e81ae6d6-ca56-4f3f-a9b7-cdc84fbe7ac3",
       "accountId": "f4154036-8f42-42c5-8f01-00ea039d7d7b",
-      "categoryTags": [
-        "Bills and Utilities"
-      ]
+      "categoryTags": ["Bills and Utilities"]
     },
     {
       "locationLongitude": -79.5389363074,
@@ -5013,9 +4499,7 @@
       "id": "8b33d5a1-e8f248d3-3479-4cbd-afb1-4259660f9461",
       "locationStreet": "5250 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationLongitude": -79.5286427455,
@@ -5036,9 +4520,7 @@
       "id": "8b33d5a1-e9b0655c-8f96-4b9d-b2e9-5e5435883500",
       "locationStreet": "4890 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Health and Fitness"
-      ]
+      "categoryTags": ["Health and Fitness"]
     },
     {
       "merchantCategoryCode": "6012",
@@ -5051,9 +4533,7 @@
       "merchantId": "b1541b4a-c62f-40f3-aa02-b02f18267223",
       "id": "8b33d5a1-e9f5bbae-d3b6-4e67-9e70-584ce2fb4e5d",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Transfer"
-      ]
+      "categoryTags": ["Transfer"]
     },
     {
       "locationLongitude": -79.5544695803,
@@ -5074,9 +4554,7 @@
       "id": "8b33d5a1-eb2dd8cc-4365-4d56-9c75-97a4381a2c6d",
       "locationStreet": "250 The East Mall",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationLongitude": -79.5389363074,
@@ -5097,9 +4575,7 @@
       "id": "8b33d5a1-ecad2362-4d09-4327-a6ae-185505fb27e0",
       "locationStreet": "5250 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationLongitude": -79.5381323935,
@@ -5120,9 +4596,7 @@
       "id": "8b33d5a1-ed394719-3e8b-44b6-b772-e996235cfae0",
       "locationStreet": "5230 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationLongitude": -79.5381323935,
@@ -5143,9 +4617,7 @@
       "id": "8b33d5a1-f0b2921f-bbaf-45c0-a5b6-6fb0d3b9f6e6",
       "locationStreet": "5230 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationLongitude": -79.5543838039,
@@ -5166,9 +4638,7 @@
       "id": "8b33d5a1-f23cbb5c-4392-4186-ba34-685842e57fd7",
       "locationStreet": "165 North Queen St",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationLongitude": -79.5389363074,
@@ -5189,9 +4659,7 @@
       "id": "8b33d5a1-f2db3b35-936d-4bce-ad36-c39e4f22b180",
       "locationStreet": "5250 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationLongitude": -79.5557636616,
@@ -5212,9 +4680,7 @@
       "id": "8b33d5a1-f4570420-d044-40b5-a5a3-05e2accc6dfc",
       "locationStreet": "165-179 North Queen St",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Shopping"
-      ]
+      "categoryTags": ["Shopping"]
     },
     {
       "locationLongitude": -79.5381323935,
@@ -5235,9 +4701,7 @@
       "id": "8b33d5a1-f470ee18-3dec-425b-88b1-72d685ac77c7",
       "locationStreet": "5230 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "description": "ADP PMT 98987929",
@@ -5247,9 +4711,7 @@
       "customerId": "8b33d5a1-1c8c-4fc8-ade8-d014f1f27ed6",
       "id": "8b33d5a1-f522ea4b-fd46-4f3b-9a48-18d91da297a3",
       "accountId": "f4154036-8f42-42c5-8f01-00ea039d7d7b",
-      "categoryTags": [
-        "Income"
-      ]
+      "categoryTags": ["Income"]
     },
     {
       "description": "CANADA CPP 23928898",
@@ -5259,9 +4721,7 @@
       "customerId": "8b33d5a1-1c8c-4fc8-ade8-d014f1f27ed6",
       "id": "8b33d5a1-f6662ce5-5c21-4424-9e25-45a13e099a04",
       "accountId": "f4154036-8f42-42c5-8f01-00ea039d7d7b",
-      "categoryTags": [
-        "Income"
-      ]
+      "categoryTags": ["Income"]
     },
     {
       "description": "CANADA RIT",
@@ -5271,10 +4731,7 @@
       "customerId": "8b33d5a1-1c8c-4fc8-ade8-d014f1f27ed6",
       "id": "8b33d5a1-f77dbd92-88af-46d0-ab96-a0a43f3dacb9",
       "accountId": "f4154036-8f42-42c5-8f01-00ea039d7d7b",
-      "categoryTags": [
-        "Taxes",
-        "Income"
-      ]
+      "categoryTags": ["Taxes", "Income"]
     },
     {
       "locationLongitude": -79.527194372,
@@ -5295,9 +4752,7 @@
       "id": "8b33d5a1-f81be325-4e01-4955-9b54-3cd5d5ccd1e5",
       "locationStreet": "4869 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationLongitude": -79.566580168,
@@ -5318,9 +4773,7 @@
       "id": "8b33d5a1-fb23c442-8446-4401-96d3-1c7f58a44a00",
       "locationStreet": "2025 Kipling Ave",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Home"
-      ]
+      "categoryTags": ["Home"]
     },
     {
       "locationLongitude": -79.5389363074,
@@ -5341,9 +4794,7 @@
       "id": "8b33d5a1-fc555d14-afdd-4f91-bf43-41163508423f",
       "locationStreet": "5250 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationLongitude": -79.4292772156,
@@ -5364,9 +4815,7 @@
       "id": "8b33d5a1-fd0650ee-ab23-4fb9-ba34-2e88aecb898f",
       "locationStreet": "1421 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Health and Fitness"
-      ]
+      "categoryTags": ["Health and Fitness"]
     },
     {
       "merchantCategoryCode": "6012",
@@ -5379,9 +4828,7 @@
       "merchantId": "b1541b4a-c62f-40f3-aa02-b02f18267223",
       "id": "8b33d5a1-fe316e58-7c3d-4787-ad9b-a8c7bccd29b4",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Transfer"
-      ]
+      "categoryTags": ["Transfer"]
     },
     {
       "locationLongitude": -79.527194372,
@@ -5402,9 +4849,7 @@
       "id": "8b33d5a1-fe87a8e2-c588-4aaa-add3-a05131591d3b",
       "locationStreet": "4869 Dundas St W",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationLongitude": -79.5544695803,
@@ -5425,9 +4870,7 @@
       "id": "8b33d5a1-ff0437ab-a16c-4eed-8da5-d8bb5f9a82bc",
       "locationStreet": "250 The East Mall",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Food and Dining"
-      ]
+      "categoryTags": ["Food and Dining"]
     },
     {
       "locationCountry": "CA",
@@ -5443,9 +4886,7 @@
       "merchantId": "ee7400d4-10e2-402d-a63c-921860d6030b",
       "id": "8b33d5a1-ffb24028-c7cd-4b21-aff2-d4a803846898",
       "accountId": "2cb55eed-9067-4ee9-8dbe-c2c11e281762",
-      "categoryTags": [
-        "Auto and Transport"
-      ]
+      "categoryTags": ["Auto and Transport"]
     }
   ]
 }
