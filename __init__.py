@@ -68,9 +68,9 @@ def input_transaction():
             array1 = []
             array2 = []
             for transaction in Transaction.objects:
-                array1.append([transaction['categoryID'],
-                            transaction['longitude'], transaction['latitude']])
-                array2.append(transaction['cost'])
+                array1.append([int(transaction['categoryID']),
+                            float(transaction['longitude']), float(transaction['latitude'])])
+                array2.append(float(transaction['cost']))
 
             return  array1, array2
 
@@ -80,14 +80,15 @@ def input_transaction():
 
         td_data = get_transations_by_customer(form.customerID.data)
     
-        train_X, train_Y, long_list, lat_list = parse_data_into_X_and_Y(td_data)
+        train_X, train_Y = parse_data_into_X_and_Y(td_data)
 
         extra_X, extra_Y = get_all_from_db()
 
         train_X += extra_X
         train_Y += extra_Y
-
-        cat_to_data = parse_data_into_categories_to_data(train_X, train_Y)
+        # print("train x", train_X)
+        # print("train y", train_Y)
+        cat_to_data, long_list, lat_list = parse_data_into_categories_to_data(train_X, train_Y)
 
         cat_to_model = train(cat_to_data)
 
@@ -96,7 +97,10 @@ def input_transaction():
 
         def in_range(lat, lon):
             multiplier = 1.04
-            return (lat < max(lat_list) * multiplier and lat > min(lat_list) / multiplier and lon < max(long_list) * multiplier and lon > min(long_list) / multiplier)
+            print("long", max(long_list) / multiplier, min(long_list) * multiplier)
+            #print("lat", max(lat_list) / multiplier, min(lat_list) * multiplier)
+            print(lon > min(long_list) * multiplier)
+            return ((lat < max(lat_list) / multiplier and lat > min(lat_list) * multiplier) and (lon > max(long_list) / multiplier and lon > min(long_list) * multiplier))
                 
 
         prediction = cat_to_model[X[0]].predict([[X[1], X[2]]])[0]

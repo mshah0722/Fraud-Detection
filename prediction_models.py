@@ -17,9 +17,6 @@ def parse_data_into_X_and_Y(data_list):
     X = []
     Y = []
 
-    long_list = []
-    lat_list = []
-
     for i in data_list:
         price = float(i['currencyAmount'])
 
@@ -28,21 +25,24 @@ def parse_data_into_X_and_Y(data_list):
             loc_long = float(i['locationLongitude'])
             loc_lat = float(i['locationLatitude'])
 
-            long_list.append(loc_long)
-            lat_list.append(loc_lat)
 
             
 
             X.append([merchantCatCode, loc_long, loc_lat])
             Y.append(price)
 
-    return X, Y, long_list, lat_list
+    return X, Y
 
 
 def parse_data_into_categories_to_data(X, Y):
     categories_to_data = {}
 
+    long_list = []
+    lat_list = []
+
     for i, x in enumerate(X):
+        long_list.append(x[1])
+        lat_list.append(x[2])
         if x[0] in categories_to_data:
             categories_to_data[x[0]]['X'].append(
                 [x[1], x[2]])
@@ -60,7 +60,7 @@ def parse_data_into_categories_to_data(X, Y):
             # X.append([merchantCatCode, loc_long, loc_lat])
             # Y.append(price)
 
-    return categories_to_data
+    return categories_to_data, long_list, lat_list
 
 
 def train(cat_to_data):
