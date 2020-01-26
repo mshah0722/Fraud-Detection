@@ -1,10 +1,13 @@
 from sklearn import svm
 import json
 
-# FILE = "./response_1579986544708.json"
+FILE = "./response_1579986544708.json"
 
 
 def get_cat_and_loc_model(json_transaction_data):
+
+    X = []
+    Y = []
 
     with open(json_transaction_data, 'r') as f:
         array = json.load(f)
@@ -24,7 +27,7 @@ def get_cat_and_loc_model(json_transaction_data):
 
     clf.fit(X, Y)
 
-    return model
+    return clf
 
 
 # cat, loc
