@@ -70,16 +70,28 @@ def input_transaction():
 
         td_data = get_transations_by_customer(form.customerID.data)
 
-        train_X, train_Y = parse_data_into_X_and_Y(td_data)
+        train_X, train_Y, long_list, lat_list = parse_data_into_X_and_Y(td_data)
 
         cat_to_data = parse_data_into_categories_to_data(train_X, train_Y)
 
         cat_to_model = train(cat_to_data)
 
+        # left = (max(long_list), max(lat_list))
+        # right  = (min(long_list), min(lat_list))
+
+        def in_range(lat, lon):
+            multiplier = 1.04
+            return (lat < max(lat_list) * multiplier and lat > min(lat_list) / multiplier and lon < max(long_list) * multiplier and lon > min(long_list) / multiplier)
+                
+
         prediction = cat_to_model[X[0]].predict([[X[1], X[2]]])[0]
 
         f_prediction = prediction * 1.3
         print(prediction, f_prediction)
+
+        if not in_range(X[2], X[1]):
+            print(max(lat_list), min(lat_list))
+            return (redirect(url_for("validate_transaction")))
         if (f_prediction) >= Y[0] or ((f_prediction < Y[0]) and ((Y[0] - f_prediction) <= 4)):
             print('wss')
             transaction = Transaction(customerID=form.customerID.data, cost=form.cost.data,
