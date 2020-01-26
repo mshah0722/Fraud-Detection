@@ -99,8 +99,8 @@ def input_transaction():
             multiplier = 1.04
             print("long", max(long_list) / multiplier, min(long_list) * multiplier)
             #print("lat", max(lat_list) / multiplier, min(lat_list) * multiplier)
-            print(lon > min(long_list) * multiplier)
-            return ((lat < max(lat_list) / multiplier and lat > min(lat_list) * multiplier) and (lon > max(long_list) / multiplier and lon > min(long_list) * multiplier))
+            print(lon < max(long_list) / multiplier)
+            return ((lat > max(lat_list) / multiplier and lat < min(lat_list) * multiplier) and (lon < max(long_list) / multiplier and lon > min(long_list) * multiplier))
                 
 
         prediction = cat_to_model[X[0]].predict([[X[1], X[2]]])[0]
