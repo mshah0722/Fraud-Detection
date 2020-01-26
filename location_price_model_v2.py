@@ -3,6 +3,7 @@ import json
 
 FILE = "./response_1579986544708.json"
 
+
 def location_price_model(json_trans_data):
     x = []
     y = []
@@ -17,10 +18,10 @@ def location_price_model(json_trans_data):
             loc_lat = float(i['locationLatitude'])
             loc_long = float(i['locationLongitude'])
 
-            x.append([price,loc_lat,loc_long])
+            x.append([loc_lat, loc_long])
             y.append(price)
 
     clf = svm.SVR()
-    clf.fit(x,y)
+    clf.fit(x, y)
 
     return clf

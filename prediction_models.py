@@ -1,5 +1,6 @@
 from sklearn import svm
 import json
+import pickle
 
 FILE = "./response_1579986544708.json"
 
@@ -29,6 +30,10 @@ def get_cat_and_loc_model(json_transaction_data):
 
     return clf
 
+
+model = get_cat_and_loc_model(FILE)
+
+pickle.dump(model, open("get_loc_and_model.model", "wb"))
 
 # cat, loc
 # mass population on cat and loc
