@@ -1,0 +1,40 @@
+{% extends "layout.html" %}
+{% block content %}
+    <div class="container">
+        <h1 class="text-center">Potential Fraud Alert</h1>
+
+        <h2 class="text-center">Did you make the following purchase?</h2>
+
+        <table class="table">
+            <thead>
+              <tr>
+                <th scope="col">CustomerID</th>
+                <th scope="col">Price</th>
+                <th scope="col">Latitude</th>
+                <th scope="col">Longitude</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <th scope="row">{{c1}}</th>
+                <td>{{c2}}</td>
+                <td>{{c3}}</td>
+                <td>{{c4}}</td>
+              </tr>
+            </tbody>
+          </table>
+        <div class="row">
+            <div class="col text-center">
+                <form action="{{url_for('validate_transaction',  c1 = c1, c2 = c2, c3 = c3, c4 = c4, c5 = c5)}}" method="post">
+                    <input class="btn btn-outline-success" type="submit" name="yes" value="yes" />
+                </form>
+            </div>
+            <div class="col text-center">
+                <form action="{{url_for('approved_transactions')}}" method="get">
+                    <input class="btn btn-outline-danger" type="submit" name="no" value="no" >
+                </form>
+            </div>
+        </div>
+    </div>
+    
+{% endblock content %}
