@@ -102,9 +102,10 @@ def input_transaction():
         prediction = cat_to_model[X[0]].predict([[X[1], X[2]]])[0]
 
         f_prediction = prediction * 1.3
-        print(prediction, f_prediction)
         transaction = Transaction(customerID=form.customerID.data, cost=form.cost.data,
                                   longitude=form.longitude.data, latitude=form.latitude.data, categoryID=form.categoryID.data)
+        if not in_range(X[2], X[1]):
+            return (redirect(url_for("validate_transaction", c1 = transaction.customerID, c2 = transaction.cost, c3 = transaction.longitude, c4 = transaction.latitude, c5 = transaction.categoryID)))
         if (f_prediction) >= Y[0] or ((f_prediction < Y[0]) and ((Y[0] - f_prediction) <= 4)):
             transaction.save()
             flash(f'Transaction Added!', 'success')
