@@ -17,10 +17,10 @@ from prediction_models import get_list, parse_data_into_X_and_Y, parse_data_into
 app = Flask(__name__)
 
 app.config['SECRET_KEY'] = '032893044egjhd3209r834'
-app.config["MONGO_URI"] = 'mongodb+srv://user1:deltahacks@deltahacks-4necq.mongodb.net/test?retryWrites=true&w=majority'
+app.config["MONGO_URI"] = 'mongodb+srv://user1:delta1@cluster0-rvxz8.mongodb.net/test?retryWrites=true&w=majority'
 app.config['MONGODB_SETTINGS'] = {
     'db': 'DeltaHacks',
-    'host': ''
+    'host': 'mongodb+srv://user1:delta1@cluster0-rvxz8.mongodb.net/test?retryWrites=true&w=majority'
 }
 db = MongoEngine(app)
 app.config.update(
@@ -79,7 +79,7 @@ def input_transaction():
         prediction = cat_to_model[X[0]].predict([[X[1], X[2]]])[0]
 
         f_prediction = prediction * 1.3
-
+        print(prediction, f_prediction)
         if (f_prediction) >= Y[0] or ((f_prediction < Y[0]) and ((Y[0] - f_prediction) <= 4)):
             print('wss')
             transaction = Transaction(customerID=form.customerID.data, cost=form.cost.data,
