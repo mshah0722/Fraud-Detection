@@ -64,13 +64,28 @@ def input_transaction():
     form = TransactionForm()
     if form.validate_on_submit():
 
+        def get_all_from_db():
+            array1 = []
+            array2 = []
+            for transaction in Transaction.objects:
+                array1.append([transaction['categoryID'],
+                            transaction['longitude'], transaction['latitude']])
+                array2.append(transaction['cost'])
+
+            return  array1, array2
+
         X = [int(form.categoryID.data), float(
             form.longitude.data), float(form.latitude.data)]
         Y = [float(form.cost.data)]
 
         td_data = get_transations_by_customer(form.customerID.data)
-
+    
         train_X, train_Y, long_list, lat_list = parse_data_into_X_and_Y(td_data)
+
+        extra_X, extra_Y = get_all_from_db()
+
+        train_X += extra_X
+        train_Y += extra_Ygit
 
         cat_to_data = parse_data_into_categories_to_data(train_X, train_Y)
 
