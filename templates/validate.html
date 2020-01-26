@@ -5,6 +5,7 @@
 
         <h2 class="text-center">Did you make the following purchase?</h2>
 
+        <div class="pt-3 pb-3">
         <table class="table">
             <thead>
               <tr>
@@ -23,6 +24,7 @@
               </tr>
             </tbody>
           </table>
+        </div>
         <div class="row">
             <div class="col text-center">
                 <form action="{{url_for('validate_transaction',  c1 = c1, c2 = c2, c3 = c3, c4 = c4, c5 = c5)}}" method="post">

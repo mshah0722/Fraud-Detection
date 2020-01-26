@@ -119,6 +119,7 @@ def input_transaction():
 def validate_transaction(c1, c2, c3, c4, c5):
     if request.method == 'POST':
         transaction = Transaction(customerID = c1, cost =c2, longitude = c3, latitude = c4, categoryID = c5)
+        transaction.save()
         flash(f'Transaction Added!', 'success')
         return (redirect(url_for('input_transaction')))
     return render_template('validate.html',  c1 = c1, c2 = c2, c3 = c3, c4 = c4, c5 = c5)
