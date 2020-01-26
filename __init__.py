@@ -85,7 +85,7 @@ def input_transaction():
         extra_X, extra_Y = get_all_from_db()
 
         train_X += extra_X
-        train_Y += extra_Ygit
+        train_Y += extra_Y
 
         cat_to_data = parse_data_into_categories_to_data(train_X, train_Y)
 
