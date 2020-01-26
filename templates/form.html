@@ -1,0 +1,126 @@
+{% extends "layout.html" %}
+{% block content %}
+<div class="container-fluid text-center pt-3">
+    <h4 class="text-success">New Transaction</h4>
+</div>
+<div class="col-6 offset-3">
+    <form action="" method="POST">
+        {{ form.hidden_tag() }}
+        <fieldset class="form-group">
+            <div class="form-group">
+                {{ form.customerID.label(class='form-control-label') }}
+
+                {% if form.customerID.errors %}
+                {{ form.customerID(class='form-control form-control-lg is-invalid') }}
+                <div class="invalid-feedback">
+                    {% for error in form.customerID.errors %}
+                    <span>{{ error }}</span>
+                    {% endfor %}
+
+                </div>
+                {% else %}
+                {{ form.customerID(class='form-control form-control-lg') }}
+                {% endif %}
+            </div>
+
+            <div class="form-group">
+                {{ form.cost.label(class='form-control-label') }}
+
+                {% if form.cost.errors %}
+                {{ form.cost(class='form-control form-control-lg is-invalid') }}
+                <div class="invalid-feedback">
+                    {% for error in form.cost.errors %}
+                    <span>{{ error }}</span>
+                    {% endfor %}
+
+                </div>
+                {% else %}
+                {{ form.cost(class='form-control form-control-lg') }}
+                {% endif %}
+            </div>
+            <!-- <div class="form-group">
+                {{ form.date.label(class='form-control-label') }}
+
+                {% if form.date.errors %}
+                {{ form.date(class='form-control form-control-lg is-invalid') }}
+                <div class="invalid-feedback">
+                    {% for error in form.date.errors %}
+                    <span>{{ error }}</span>
+                    {% endfor %}
+
+                </div>
+                {% else %}
+                {{ form.date(class='form-control form-control-lg') }}
+                {% endif %}
+            </div>
+
+            <div class="form-group">
+                {{ form.time.label(class='form-control-label') }}
+
+                {% if form.time.errors %}
+                {{ form.time(class='form-control form-control-lg is-invalid') }}
+                <div class="invalid-feedback">
+                    {% for error in form.time.errors %}
+                    <span>{{ error }}</span>
+                    {% endfor %}
+
+                </div>
+                {% else %}
+                {{ form.time(class='form-control form-control-lg') }}
+                {% endif %}
+            </div> -->
+            <div class="form-group">
+                {{ form.longitude.label(class='form-control-label') }}
+
+                {% if form.longitude.errors %}
+                {{ form.longitude(class='form-control form-control-lg is-invalid') }}
+                <div class="invalid-feedback">
+                    {% for error in form.longitude.errors %}
+                    <span>{{ error }}</span>
+                    {% endfor %}
+
+                </div>
+                {% else %}
+                {{ form.longitude(class='form-control form-control-lg') }}
+                {% endif %}
+            </div>
+
+            <div class="form-group">
+                {{ form.latitude.label(class='form-control-label') }}
+
+                {% if form.latitude.errors %}
+                {{ form.latitude(class='form-control form-control-lg is-invalid') }}
+                <div class="invalid-feedback">
+                    {% for error in form.latitude.errors %}
+                    <span>{{ error }}</span>
+                    {% endfor %}
+
+                </div>
+                {% else %}
+                {{ form.latitude(class='form-control form-control-lg') }}
+                {% endif %}
+            </div>
+            <div class="form-group">
+                {{ form.categoryID.label(class='form-control-label') }}
+
+                {% if form.categoryID.errors %}
+                {{ form.categoryID(class='form-control form-control-lg is-invalid') }}
+                <div class="invalid-feedback">
+                    {% for error in form.categoryID.errors %}
+                    <span>{{ error }}</span>
+                    {% endfor %}
+
+                </div>
+                {% else %}
+                {{ form.categoryID(class='form-control form-control-lg') }}
+                {% endif %}
+            </div>
+
+
+            <div class="form-group">
+                {{ form.submit(class='btn btn-outline-success') }}
+            </div>
+        </fieldset>
+    </form>
+</div>
+{% endblock content %}
