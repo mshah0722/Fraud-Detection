@@ -88,30 +88,25 @@ def input_transaction():
 
         f_prediction = prediction * 1.3
         print(prediction, f_prediction)
-
-        if not in_range(X[2], X[1]):
-            print(max(lat_list), min(lat_list))
-            return (redirect(url_for("validate_transaction")))
-        if (f_prediction) >= Y[0] or ((f_prediction < Y[0]) and ((Y[0] - f_prediction) <= 4)):
-            print('wss')
-            transaction = Transaction(customerID=form.customerID.data, cost=form.cost.data,
+        transaction = Transaction(customerID=form.customerID.data, cost=form.cost.data,
                                   longitude=form.longitude.data, latitude=form.latitude.data, categoryID=form.categoryID.data)
-            print('wss2')
+        if (f_prediction) >= Y[0] or ((f_prediction < Y[0]) and ((Y[0] - f_prediction) <= 4)):
             transaction.save()
-            print('wss3')
             flash(f'Transaction Added!', 'success')
-            print('wss3')
             return (redirect(url_for('input_transaction')))
         else:
-            return (redirect(url_for("validate_transaction")))
-
-        
+            print(transaction)
+            return (redirect(url_for("validate_transaction", c1 = transaction.customerID, c2 = transaction.cost, c3 = transaction.longitude, c4 = transaction.latitude, c5 = transaction.categoryID)))    
     return render_template('form.html', form=form)
 
 
-@app.route("/validate_transaction", methods=["GET", "POST"])
-def validate_transaction():
-    return "suspecious"
+@app.route("/validate_transaction/<c1>/<c2>/<c3>/<c4>/<c5>", methods=["GET", "POST"])
+def validate_transaction(c1, c2, c3, c4, c5):
+    if request.method == 'POST':
+        transaction = Transaction(customerID = c1, cost =c2, longitude = c3, latitude = c4, categoryID = c5)
+        flash(f'Transaction Added!', 'success')
+        return (redirect(url_for('input_transaction')))
+    return render_template('validate.html',  c1 = c1, c2 = c2, c3 = c3, c4 = c4, c5 = c5)
 
 @app.route('/get_approved_transactions', methods=['GET'])
 def approved_transactions():
