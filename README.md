@@ -24,7 +24,7 @@ Data Interpretation and Model development.
 Improving the model by looking at other categories in the data to refine the model based on other transactions statistics. Providing more user's data to improve the training and testing data-set for the model.
 
 ## TD's da-vinci API + Data sets
-[TD davinci API] (https://td-davinci.com/)
+[TD davinci API](https://td-davinci.com/)
 
 ## Presentation Link
 [Presentation Slide Show](https://slides.com/malharshah/deck#/projectapati)
