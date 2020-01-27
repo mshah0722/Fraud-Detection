@@ -1,12 +1,12 @@
-# FraudDetectionDeltaHacks2020
+# Fraud Detection Delta Hacks 2020: Project Apati
 ## Inspiration 
 Fraud is a crime that can impact any Canadian, regardless of their education, age or income. 
-From January 2014 to December 2017, Canadians lost more than $405 million to fraudsters. ~ https://www.competitionbureau.gc.ca/eic/site/cb-bc.nsf/eng/04334.html
+From January 2014 to December 2017, Canadians lost more than $405 million to fraudsters. ~ [Statistic Info](https://www.competitionbureau.gc.ca/eic/site/cb-bc.nsf/eng/04334.html)
 
 We wanted to develop technology that detects potentially fraudulent activity and give account owners the ability to cancel such transactions. 
 
 ## How it works
-Using scikit-learn, we were able to detect patterns in a user's previous banking data provided by TD's da-vinci API. 
+Using scikit-learn, we were able to detect patterns in a user's previous banking data provided by TD's davinci API. 
 We examined categories such as the location of the purchase, the cost of the purchase, and the purchase category. Afterwards, we determined certain parameters for the cost of purchase based on the purchase category, and purchase locations to validate transactions that met the requirements. Transactions that were made outside of these parameters were deemed suspicious activity and an alert is sent to the account owner, providing them with the ability to validate/decline the purchase. If the transaction is approved, it is added to the MongoDB database with the rest of the user's previous transactions.
 
 ## Challenges we ran into
@@ -24,4 +24,10 @@ Data Interpretation and Model development.
 Improving the model by looking at other categories in the data to refine the model based on other transactions statistics. Providing more user's data to improve the training and testing data-set for the model.
 
 ## TD's da-vinci API + Data sets
-https://td-davinci.com/
+[TD's davinci API] (https://td-davinci.com/)
+
+## Presentation Link
+[Presentation Slide Show](https://slides.com/malharshah/deck#/projectapati)
+
+## Devpost Link
+[Devpost](https://devpost.com/software/frauddetectiondeltahacks2020)
